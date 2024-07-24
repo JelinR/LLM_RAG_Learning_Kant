@@ -1,0 +1,3097 @@
+0: Title: Fundamental Principles of the Metaphysic of Morals
+1: 
+2: Author: Immanuel Kant
+3: 
+4: Translator: Thomas Kingsmill Abbott
+5: 
+6: Release date: May 1, 2004 [eBook #5682]
+7:                 Most recently updated: December 29, 2020
+8: 
+9: Language: English
+10: 
+11: 
+12: 
+13: *** START OF THE PROJECT GUTENBERG EBOOK FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS ***
+14: 
+15: 
+16: 
+17: 
+18: This eBook was prepared by Matthew Stapleton.
+19: 
+20: 
+21: 
+22:                                  1785
+23: 
+24:           FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS
+25: 
+26:                            by Immanuel Kant
+27: 
+28:                 translated by Thomas Kingsmill Abbott
+29: 
+30: 
+31: PREFACE
+32: 
+33: 
+34: 
+35: Ancient Greek philosophy was divided into three sciences: physics,
+36: ethics, and logic. This division is perfectly suitable to the nature
+37: of the thing; and the only improvement that can be made in it is to
+38: add the principle on which it is based, so that we may both satisfy
+39: ourselves of its completeness, and also be able to determine correctly
+40: the necessary subdivisions.
+41: 
+42: All rational knowledge is either material or formal: the former
+43: considers some object, the latter is concerned only with the form of
+44: the understanding and of the reason itself, and with the universal
+45: laws of thought in general without distinction of its objects.
+46: Formal philosophy is called logic. Material philosophy, however, which has
+47: to do with determinate objects and the laws to which they are subject,
+48: is again twofold; for these laws are either laws of nature or of
+49: freedom. The science of the former is physics, that of the latter,
+50: ethics; they are also called natural philosophy and moral philosophy
+51: respectively.
+52: 
+53: Logic cannot have any empirical part; that is, a part in which the
+54: universal and necessary laws of thought should rest on grounds taken
+55: from experience; otherwise it would not be logic, i.e., a canon for
+56: the understanding or the reason, valid for all thought, and capable of
+57: demonstration. Natural and moral philosophy, on the contrary, can each
+58: have their empirical part, since the former has to determine the
+59: laws of nature as an object of experience; the latter the laws of
+60: the human will, so far as it is affected by nature: the former,
+61: however, being laws according to which everything does happen; the
+62: latter, laws according to which everything ought to happen. Ethics,
+63: however, must also consider the conditions under which what ought to
+64: happen frequently does not.
+65: 
+66: We may call all philosophy empirical, so far as it is based on
+67: grounds of experience: on the other hand, that which delivers its
+68: doctrines from a priori principles alone we may call pure
+69: philosophy. When the latter is merely formal it is logic; if it is
+70: restricted to definite objects of the understanding it is metaphysic.
+71: 
+72: In this way there arises the idea of a twofold metaphysic- a
+73: metaphysic of nature and a metaphysic of morals. Physics will thus
+74: have an empirical and also a rational part. It is the same with
+75: Ethics; but here the empirical part might have the special name of
+76: practical anthropology, the name morality being appropriated to the
+77: rational part.
+78: 
+79: All trades, arts, and handiworks have gained by division of
+80: labour, namely, when, instead of one man doing everything, each
+81: confines himself to a certain kind of work distinct from others in the
+82: treatment it requires, so as to be able to perform it with greater
+83: facility and in the greatest perfection. Where the different kinds
+84: of work are not distinguished and divided, where everyone is a
+85: jack-of-all-trades, there manufactures remain still in the greatest
+86: barbarism. It might deserve to be considered whether pure philosophy
+87: in all its parts does not require a man specially devoted to it, and
+88: whether it would not be better for the whole business of science if
+89: those who, to please the tastes of the public, are wont to blend the
+90: rational and empirical elements together, mixed in all sorts of
+91: proportions unknown to themselves, and who call themselves independent
+92: thinkers, giving the name of minute philosophers to those who apply
+93: themselves to the rational part only- if these, I say, were warned not
+94: to carry on two employments together which differ widely in the
+95: treatment they demand, for each of which perhaps a special talent is
+96: required, and the combination of which in one person only produces
+97: bunglers. But I only ask here whether the nature of science does not
+98: require that we should always carefully separate the empirical from
+99: the rational part, and prefix to Physics proper (or empirical physics)
+100: a metaphysic of nature, and to practical anthropology a metaphysic
+101: of morals, which must be carefully cleared of everything empirical, so
+102: that we may know how much can be accomplished by pure reason in both
+103: cases, and from what sources it draws this its a priori teaching,
+104: and that whether the latter inquiry is conducted by all moralists
+105: (whose name is legion), or only by some who feel a calling thereto.
+106: 
+107: As my concern here is with moral philosophy, I limit the question
+108: suggested to this: Whether it is not of the utmost necessity to
+109: construct a pure thing which is only empirical and which belongs to
+110: anthropology? for that such a philosophy must be possible is evident
+111: from the common idea of duty and of the moral laws. Everyone must
+112: admit that if a law is to have moral force, i.e., to be the basis of
+113: an obligation, it must carry with it absolute necessity; that, for
+114: example, the precept, "Thou shalt not lie," is not valid for men
+115: alone, as if other rational beings had no need to observe it; and so
+116: with all the other moral laws properly so called; that, therefore, the
+117: basis of obligation must not be sought in the nature of man, or in the
+118: circumstances in the world in which he is placed, but a priori
+119: simply in the conception of pure reason; and although any other
+120: precept which is founded on principles of mere experience may be in
+121: certain respects universal, yet in as far as it rests even in the
+122: least degree on an empirical basis, perhaps only as to a motive,
+123: such a precept, while it may be a practical rule, can never be
+124: called a moral law.
+125: 
+126: Thus not only are moral laws with their principles essentially
+127: distinguished from every other kind of practical knowledge in which
+128: there is anything empirical, but all moral philosophy rests wholly
+129: on its pure part. When applied to man, it does not borrow the least
+130: thing from the knowledge of man himself (anthropology), but gives laws
+131: a priori to him as a rational being. No doubt these laws require a
+132: judgement sharpened by experience, in order on the one hand to
+133: distinguish in what cases they are applicable, and on the other to
+134: procure for them access to the will of the man and effectual influence
+135: on conduct; since man is acted on by so many inclinations that, though
+136: capable of the idea of a practical pure reason, he is not so easily
+137: able to make it effective in concreto in his life.
+138: 
+139: A metaphysic of morals is therefore indispensably necessary, not
+140: merely for speculative reasons, in order to investigate the sources of
+141: the practical principles which are to be found a priori in our reason,
+142: but also because morals themselves are liable to all sorts of
+143: corruption, as long as we are without that clue and supreme canon by
+144: which to estimate them correctly. For in order that an action should
+145: be morally good, it is not enough that it conform to the moral law,
+146: but it must also be done for the sake of the law, otherwise that
+147: conformity is only very contingent and uncertain; since a principle
+148: which is not moral, although it may now and then produce actions
+149: conformable to the law, will also often produce actions which
+150: contradict it. Now it is only in a pure philosophy that we can look for
+151: the moral law in its purity and genuineness (and, in a practical
+152: matter, this is of the utmost consequence): we must, therefore,
+153: begin with pure philosophy (metaphysic), and without it there cannot
+154: be any moral philosophy at all. That which mingles these pure
+155: principles with the empirical does not deserve the name of
+156: philosophy (for what distinguishes philosophy from common rational
+157: knowledge is that it treats in separate sciences what the latter
+158: only comprehends confusedly); much less does it deserve that of
+159: moral philosophy, since by this confusion it even spoils the purity of
+160: morals themselves, and counteracts its own end.
+161: 
+162: Let it not be thought, however, that what is here demanded is
+163: already extant in the propaedeutic prefixed by the celebrated Wolf
+164: to his moral philosophy, namely, his so-called general practical
+165: philosophy, and that, therefore, we have not to strike into an
+166: entirely new field. Just because it was to be a general practical
+167: philosophy, it has not taken into consideration a will of any
+168: particular kind- say one which should be determined solely from a
+169: priori principles without any empirical motives, and which we might
+170: call a pure will, but volition in general, with all the actions and
+171: conditions which belong to it in this general signification. By this
+172: it is distinguished from a metaphysic of morals, just as general
+173: logic, which treats of the acts and canons of thought in general, is
+174: distinguished from transcendental philosophy, which treats of the
+175: particular acts and canons of pure thought, i.e., that whose
+176: cognitions are altogether a priori. For the metaphysic of morals has
+177: to examine the idea and the principles of a possible pure will, and
+178: not the acts and conditions of human volition generally, which for the
+179: most part are drawn from psychology. It is true that moral laws and
+180: duty are spoken of in the general moral philosophy (contrary indeed to
+181: all fitness). But this is no objection, for in this respect also the
+182: authors of that science remain true to their idea of it; they do not
+183: distinguish the motives which are prescribed as such by reason alone
+184: altogether a priori, and which are properly moral, from the
+185: empirical motives which the understanding raises to general
+186: conceptions merely by comparison of experiences; but, without noticing
+187: the difference of their sources, and looking on them all as
+188: homogeneous, they consider only their greater or less amount. It is in
+189: this way they frame their notion of obligation, which, though anything
+190: but moral, is all that can be attained in a philosophy which passes no
+191: judgement at all on the origin of all possible practical concepts,
+192: whether they are a priori, or only a posteriori.
+193: 
+194: Intending to publish hereafter a metaphysic of morals, I issue in
+195: the first instance these fundamental principles. Indeed there is
+196: properly no other foundation for it than the critical examination of a
+197: pure practical reason; just as that of metaphysics is the critical
+198: examination of the pure speculative reason, already published. But
+199: in the first place the former is not so absolutely necessary as the
+200: latter, because in moral concerns human reason can easily be brought
+201: to a high degree of correctness and completeness, even in the
+202: commonest understanding, while on the contrary in its theoretic but
+203: pure use it is wholly dialectical; and in the second place if the
+204: critique of a pure practical Reason is to be complete, it must be
+205: possible at the same time to show its identity with the speculative
+206: reason in a common principle, for it can ultimately be only one and
+207: the same reason which has to be distinguished merely in its
+208: application. I could not, however, bring it to such completeness here,
+209: without introducing considerations of a wholly different kind, which
+210: would be perplexing to the reader. On this account I have adopted
+211: the title of Fundamental Principles of the Metaphysic of Morals
+212: instead of that of a Critical Examination of the pure practical
+213: reason.
+214: 
+215: But in the third place, since a metaphysic of morals, in spite of
+216: the discouraging title, is yet capable of being presented in popular
+217: form, and one adapted to the common understanding, I find it useful to
+218: separate from it this preliminary treatise on its fundamental
+219: principles, in order that I may not hereafter have need to introduce
+220: these necessarily subtle discussions into a book of a more simple
+221: character.
+222: 
+223: The present treatise is, however, nothing more than the
+224: investigation and establishment of the supreme principle of
+225: morality, and this alone constitutes a study complete in itself and
+226: one which ought to be kept apart from every other moral investigation.
+227: No doubt my conclusions on this weighty question, which has hitherto
+228: been very unsatisfactorily examined, would receive much light from the
+229: application of the same principle to the whole system, and would be
+230: greatly confirmed by the adequacy which it exhibits throughout; but
+231: I must forego this advantage, which indeed would be after all more
+232: gratifying than useful, since the easy applicability of a principle
+233: and its apparent adequacy give no very certain proof of its soundness,
+234: but rather inspire a certain partiality, which prevents us from
+235: examining and estimating it strictly in itself and without regard to
+236: consequences.
+237: 
+238: I have adopted in this work the method which I think most
+239: suitable, proceeding analytically from common knowledge to the
+240: determination of its ultimate principle, and again descending
+241: synthetically from the examination of this principle and its sources
+242: to the common knowledge in which we find it employed. The division
+243: will, therefore, be as follows:
+244: 
+245: 
+246: 
+247: 1 FIRST SECTION. Transition from the common rational knowledge of
+248: morality to the philosophical.
+249: 
+250: 
+251: 
+252: 2 SECOND SECTION. Transition from popular moral philosophy to the
+253: metaphysic of morals.
+254: 
+255: 
+256: 
+257: 3 THIRD SECTION. Final step from the metaphysic of morals to the
+258: critique of the pure practical reason.
+259: 
+260: SEC_1
+261: 
+262:                       FIRST SECTION
+263: 
+264: 
+265: 
+266:        TRANSITION FROM THE COMMON RATIONAL KNOWLEDGE
+267: 
+268:             OF MORALITY TO THE PHILOSOPHICAL
+269: 
+270: 
+271: 
+272: Nothing can possibly be conceived in the world, or even out of it,
+273: which can be called good, without qualification, except a good will.
+274: Intelligence, wit, judgement, and the other talents of the mind,
+275: however they may be named, or courage, resolution, perseverance, as
+276: qualities of temperament, are undoubtedly good and desirable in many
+277: respects; but these gifts of nature may also become extremely bad
+278: and mischievous if the will which is to make use of them, and which,
+279: therefore, constitutes what is called character, is not good. It is
+280: the same with the gifts of fortune. Power, riches, honour, even
+281: health, and the general well-being and contentment with one's
+282: condition which is called happiness, inspire pride, and often
+283: presumption, if there is not a good will to correct the influence of
+284: these on the mind, and with this also to rectify the whole principle
+285: of acting and adapt it to its end. The sight of a being who is not
+286: adorned with a single feature of a pure and good will, enjoying
+287: unbroken prosperity, can never give pleasure to an impartial
+288: rational spectator. Thus a good will appears to constitute the
+289: indispensable condition even of being worthy of happiness.
+290: 
+291: There are even some qualities which are of service to this good will
+292: itself and may facilitate its action, yet which have no intrinsic
+293: unconditional value, but always presuppose a good will, and this
+294: qualifies the esteem that we justly have for them and does not
+295: permit us to regard them as absolutely good. Moderation in the
+296: affections and passions, self-control, and calm deliberation are not
+297: only good in many respects, but even seem to constitute part of the
+298: intrinsic worth of the person; but they are far from deserving to be
+299: called good without qualification, although they have been so
+300: unconditionally praised by the ancients. For without the principles of
+301: a good will, they may become extremely bad, and the coolness of a
+302: villain not only makes him far more dangerous, but also directly makes
+303: him more abominable in our eyes than he would have been without it.
+304: 
+305: A good will is good not because of what it performs or effects,
+306: not by its aptness for the attainment of some proposed end, but simply
+307: by virtue of the volition; that is, it is good in itself, and
+308: considered by itself is to be esteemed much higher than all that can
+309: be brought about by it in favour of any inclination, nay even of the
+310: sum total of all inclinations. Even if it should happen that, owing to
+311: special disfavour of fortune, or the niggardly provision of a
+312: step-motherly nature, this will should wholly lack power to accomplish
+313: its purpose, if with its greatest efforts it should yet achieve
+314: nothing, and there should remain only the good will (not, to be
+315: sure, a mere wish, but the summoning of all means in our power), then,
+316: like a jewel, it would still shine by its own light, as a thing
+317: which has its whole value in itself. Its usefulness or fruitlessness
+318: can neither add nor take away anything from this value. It would be,
+319: as it were, only the setting to enable us to handle it the more
+320: conveniently in common commerce, or to attract to it the attention
+321: of those who are not yet connoisseurs, but not to recommend it to true
+322: connoisseurs, or to determine its value.
+323: 
+324: There is, however, something so strange in this idea of the absolute
+325: value of the mere will, in which no account is taken of its utility,
+326: that notwithstanding the thorough assent of even common reason to
+327: the idea, yet a suspicion must arise that it may perhaps really be the
+328: product of mere high-flown fancy, and that we may have misunderstood
+329: the purpose of nature in assigning reason as the governor of our will.
+330: Therefore we will examine this idea from this point of view.
+331: 
+332: In the physical constitution of an organized being, that is, a being
+333: adapted suitably to the purposes of life, we assume it as a
+334: fundamental principle that no organ for any purpose will be found
+335: but what is also the fittest and best adapted for that purpose. Now in
+336: a being which has reason and a will, if the proper object of nature
+337: were its conservation, its welfare, in a word, its happiness, then
+338: nature would have hit upon a very bad arrangement in selecting the
+339: reason of the creature to carry out this purpose. For all the
+340: actions which the creature has to perform with a view to this purpose,
+341: and the whole rule of its conduct, would be far more surely prescribed
+342: to it by instinct, and that end would have been attained thereby
+343: much more certainly than it ever can be by reason. Should reason
+344: have been communicated to this favoured creature over and above, it
+345: must only have served it to contemplate the happy constitution of
+346: its nature, to admire it, to congratulate itself thereon, and to
+347: feel thankful for it to the beneficent cause, but not that it should
+348: subject its desires to that weak and delusive guidance and meddle
+349: bunglingly with the purpose of nature. In a word, nature would have
+350: taken care that reason should not break forth into practical exercise,
+351: nor have the presumption, with its weak insight, to think out for
+352: itself the plan of happiness, and of the means of attaining it. Nature
+353: would not only have taken on herself the choice of the ends, but
+354: also of the means, and with wise foresight would have entrusted both
+355: to instinct.
+356: 
+357: And, in fact, we find that the more a cultivated reason applies
+358: itself with deliberate purpose to the enjoyment of life and happiness,
+359: so much the more does the man fail of true satisfaction. And from this
+360: circumstance there arises in many, if they are candid enough to
+361: confess it, a certain degree of misology, that is, hatred of reason,
+362: especially in the case of those who are most experienced in the use of
+363: it, because after calculating all the advantages they derive, I do not
+364: say from the invention of all the arts of common luxury, but even from
+365: the sciences (which seem to them to be after all only a luxury of
+366: the understanding), they find that they have, in fact, only brought
+367: more trouble on their shoulders, rather than gained in happiness;
+368: and they end by envying, rather than despising, the more common
+369: stamp of men who keep closer to the guidance of mere instinct and do
+370: not allow their reason much influence on their conduct. And this we
+371: must admit, that the judgement of those who would very much lower
+372: the lofty eulogies of the advantages which reason gives us in regard
+373: to the happiness and satisfaction of life, or who would even reduce
+374: them below zero, is by no means morose or ungrateful to the goodness
+375: with which the world is governed, but that there lies at the root of
+376: these judgements the idea that our existence has a different and far
+377: nobler end, for which, and not for happiness, reason is properly
+378: intended, and which must, therefore, be regarded as the supreme
+379: condition to which the private ends of man must, for the most part, be
+380: postponed.
+381: 
+382: For as reason is not competent to guide the will with certainty in
+383: regard to its objects and the satisfaction of all our wants (which
+384: it to some extent even multiplies), this being an end to which an
+385: implanted instinct would have led with much greater certainty; and
+386: since, nevertheless, reason is imparted to us as a practical
+387: faculty, i.e., as one which is to have influence on the will,
+388: therefore, admitting that nature generally in the distribution of
+389: her capacities has adapted the means to the end, its true
+390: destination must be to produce a will, not merely good as a means to
+391: something else, but good in itself, for which reason was absolutely
+392: necessary. This will then, though not indeed the sole and complete
+393: good, must be the supreme good and the condition of every other,
+394: even of the desire of happiness. Under these circumstances, there is
+395: nothing inconsistent with the wisdom of nature in the fact that the
+396: cultivation of the reason, which is requisite for the first and
+397: unconditional purpose, does in many ways interfere, at least in this
+398: life, with the attainment of the second, which is always
+399: conditional, namely, happiness. Nay, it may even reduce it to nothing,
+400: without nature thereby failing of her purpose. For reason recognizes
+401: the establishment of a good will as its highest practical destination,
+402: and in attaining this purpose is capable only of a satisfaction of its
+403: own proper kind, namely that from the attainment of an end, which
+404: end again is determined by reason only, notwithstanding that this
+405: may involve many a disappointment to the ends of inclination.
+406: 
+407: We have then to develop the notion of a will which deserves to be
+408: highly esteemed for itself and is good without a view to anything
+409: further, a notion which exists already in the sound natural
+410: understanding, requiring rather to be cleared up than to be taught,
+411: and which in estimating the value of our actions always takes the
+412: first place and constitutes the condition of all the rest. In order to
+413: do this, we will take the notion of duty, which includes that of a
+414: good will, although implying certain subjective restrictions and
+415: hindrances. These, however, far from concealing it, or rendering it
+416: unrecognizable, rather bring it out by contrast and make it shine
+417: forth so much the brighter.
+418: 
+419: I omit here all actions which are already recognized as inconsistent
+420: with duty, although they may be useful for this or that purpose, for
+421: with these the question whether they are done from duty cannot arise
+422: at all, since they even conflict with it. I also set aside those
+423: actions which really conform to duty, but to which men have no
+424: direct inclination, performing them because they are impelled
+425: thereto by some other inclination. For in this case we can readily
+426: distinguish whether the action which agrees with duty is done from
+427: duty, or from a selfish view. It is much harder to make this
+428: distinction when the action accords with duty and the subject has
+429: besides a direct inclination to it. For example, it is always a matter
+430: of duty that a dealer should not over charge an inexperienced
+431: purchaser; and wherever there is much commerce the prudent tradesman
+432: does not overcharge, but keeps a fixed price for everyone, so that a
+433: child buys of him as well as any other. Men are thus honestly
+434: served; but this is not enough to make us believe that the tradesman
+435: has so acted from duty and from principles of honesty: his own
+436: advantage required it; it is out of the question in this case to
+437: suppose that he might besides have a direct inclination in favour of
+438: the buyers, so that, as it were, from love he should give no advantage
+439: to one over another. Accordingly the action was done neither from duty
+440: nor from direct inclination, but merely with a selfish view.
+441: 
+442: On the other hand, it is a duty to maintain one's life; and, in
+443: addition, everyone has also a direct inclination to do so. But on this
+444: account the often anxious care which most men take for it has no
+445: intrinsic worth, and their maxim has no moral import. They preserve
+446: their life as duty requires, no doubt, but not because duty
+447: requires. On the other hand, if adversity and hopeless sorrow have
+448: completely taken away the relish for life; if the unfortunate one,
+449: strong in mind, indignant at his fate rather than desponding or
+450: dejected, wishes for death, and yet preserves his life without
+451: loving it- not from inclination or fear, but from duty- then his maxim
+452: has a moral worth.
+453: 
+454: To be beneficent when we can is a duty; and besides this, there
+455: are many minds so sympathetically constituted that, without any
+456: other motive of vanity or self-interest, they find a pleasure in
+457: spreading joy around them and can take delight in the satisfaction
+458: of others so far as it is their own work. But I maintain that in
+459: such a case an action of this kind, however proper, however amiable it
+460: may be, has nevertheless no true moral worth, but is on a level with
+461: other inclinations, e.g., the inclination to honour, which, if it is
+462: happily directed to that which is in fact of public utility and
+463: accordant with duty and consequently honourable, deserves praise and
+464: encouragement, but not esteem. For the maxim lacks the moral import,
+465: namely, that such actions be done from duty, not from inclination. Put
+466: the case that the mind of that philanthropist were clouded by sorrow
+467: of his own, extinguishing all sympathy with the lot of others, and
+468: that, while he still has the power to benefit others in distress, he
+469: is not touched by their trouble because he is absorbed with his own;
+470: and now suppose that he tears himself out of this dead
+471: insensibility, and performs the action without any inclination to
+472: it, but simply from duty, then first has his action its genuine
+473: moral worth. Further still; if nature has put little sympathy in the
+474: heart of this or that man; if he, supposed to be an upright man, is by
+475: temperament cold and indifferent to the sufferings of others,
+476: perhaps because in respect of his own he is provided with the
+477: special gift of patience and fortitude and supposes, or even requires,
+478: that others should have the same- and such a man would certainly not
+479: be the meanest product of nature- but if nature had not specially
+480: framed him for a philanthropist, would he not still find in himself
+481: a source from whence to give himself a far higher worth than that of a
+482: good-natured temperament could be? Unquestionably. It is just in
+483: this that the moral worth of the character is brought out which is
+484: incomparably the highest of all, namely, that he is beneficent, not
+485: from inclination, but from duty.
+486: 
+487: To secure one's own happiness is a duty, at least indirectly; for
+488: discontent with one's condition, under a pressure of many anxieties
+489: and amidst unsatisfied wants, might easily become a great temptation
+490: to transgression of duty. But here again, without looking to duty, all
+491: men have already the strongest and most intimate inclination to
+492: happiness, because it is just in this idea that all inclinations are
+493: combined in one total. But the precept of happiness is often of such a
+494: sort that it greatly interferes with some inclinations, and yet a
+495: man cannot form any definite and certain conception of the sum of
+496: satisfaction of all of them which is called happiness. It is not
+497: then to be wondered at that a single inclination, definite both as
+498: to what it promises and as to the time within which it can be
+499: gratified, is often able to overcome such a fluctuating idea, and that
+500: a gouty patient, for instance, can choose to enjoy what he likes,
+501: and to suffer what he may, since, according to his calculation, on
+502: this occasion at least, he has not sacrificed the enjoyment of the
+503: present moment to a possibly mistaken expectation of a happiness which
+504: is supposed to be found in health. But even in this case, if the
+505: general desire for happiness did not influence his will, and supposing
+506: that in his particular case health was not a necessary element in this
+507: calculation, there yet remains in this, as in all other cases, this
+508: law, namely, that he should promote his happiness not from inclination
+509: but from duty, and by this would his conduct first acquire true
+510: moral worth.
+511: 
+512: It is in this manner, undoubtedly, that we are to understand those
+513: passages of Scripture also in which we are commanded to love our
+514: neighbour, even our enemy. For love, as an affection, cannot be
+515: commanded, but beneficence for duty's sake may; even though we are not
+516: impelled to it by any inclination- nay, are even repelled by a natural
+517: and unconquerable aversion. This is practical love and not
+518: pathological- a love which is seated in the will, and not in the
+519: propensions of sense- in principles of action and not of tender
+520: sympathy; and it is this love alone which can be commanded.
+521: 
+522: The second proposition is: That an action done from duty derives its
+523: moral worth, not from the purpose which is to be attained by it, but
+524: from the maxim by which it is determined, and therefore does not
+525: depend on the realization of the object of the action, but merely on
+526: the principle of volition by which the action has taken place, without
+527: regard to any object of desire. It is clear from what precedes that
+528: the purposes which we may have in view in our actions, or their
+529: effects regarded as ends and springs of the will, cannot give to
+530: actions any unconditional or moral worth. In what, then, can their
+531: worth lie, if it is not to consist in the will and in reference to its
+532: expected effect? It cannot lie anywhere but in the principle of the
+533: will without regard to the ends which can be attained by the action.
+534: For the will stands between its a priori principle, which is formal,
+535: and its a posteriori spring, which is material, as between two roads,
+536: and as it must be determined by something, it follows that it must be
+537: determined by the formal principle of volition when an action is done
+538: from duty, in which case every material principle has been withdrawn
+539: from it.
+540: 
+541: The third proposition, which is a consequence of the two
+542: preceding, I would express thus: Duty is the necessity of acting from
+543: respect for the law. I may have inclination for an object as the
+544: effect of my proposed action, but I cannot have respect for it, just
+545: for this reason, that it is an effect and not an energy of will.
+546: Similarly I cannot have respect for inclination, whether my own or
+547: another's; I can at most, if my own, approve it; if another's,
+548: sometimes even love it; i.e., look on it as favourable to my own
+549: interest. It is only what is connected with my will as a principle, by
+550: no means as an effect- what does not subserve my inclination, but
+551: overpowers it, or at least in case of choice excludes it from its
+552: calculation- in other words, simply the law of itself, which can be an
+553: object of respect, and hence a command. Now an action done from duty
+554: must wholly exclude the influence of inclination and with it every
+555: object of the will, so that nothing remains which can determine the
+556: will except objectively the law, and subjectively pure respect for
+557: this practical law, and consequently the maxim * that I should follow
+558: this law even to the thwarting of all my inclinations.
+559: 
+560: 
+561: 
+562: * A maxim is the subjective principle of volition. The objective
+563: principle (i.e., that which would also serve subjectively as a
+564: practical principle to all rational beings if reason had full power
+565: over the faculty of desire) is the practical law.
+566: 
+567: 
+568: 
+569: Thus the moral worth of an action does not lie in the effect
+570: expected from it, nor in any principle of action which requires to
+571: borrow its motive from this expected effect. For all these effects-
+572: agreeableness of one's condition and even the promotion of the
+573: happiness of others- could have been also brought about by other
+574: causes, so that for this there would have been no need of the will
+575: of a rational being; whereas it is in this alone that the supreme
+576: and unconditional good can be found. The pre-eminent good which we
+577: call moral can therefore consist in nothing else than the conception
+578: of law in itself, which certainly is only possible in a rational
+579: being, in so far as this conception, and not the expected effect,
+580: determines the will. This is a good which is already present in the
+581: person who acts accordingly, and we have not to wait for it to
+582: appear first in the result. *
+583: 
+584: 
+585: 
+586: * It might be here objected to me that I take refuge behind the
+587: word respect in an obscure feeling, instead of giving a distinct
+588: solution of the question by a concept of the reason. But although
+589: respect is a feeling, it is not a feeling received through
+590: influence, but is self-wrought by a rational concept, and,
+591: therefore, is specifically distinct from all feelings of the former
+592: kind, which may be referred either to inclination or fear, What I
+593: recognise immediately as a law for me, I recognise with respect.
+594: This merely signifies the consciousness that my will is subordinate to
+595: a law, without the intervention of other influences on my sense. The
+596: immediate determination of the will by the law, and the
+597: consciousness of this, is called respect, so that this is regarded
+598: as an effect of the law on the subject, and not as the cause of it.
+599: Respect is properly the conception of a worth which thwarts my
+600: self-love. Accordingly it is something which is considered neither
+601: as an object of inclination nor of fear, although it has something
+602: analogous to both. The object of respect is the law only, and that the
+603: law which we impose on ourselves and yet recognise as necessary in
+604: itself. As a law, we are subjected too it without consulting
+605: self-love; as imposed by us on ourselves, it is a result of our
+606: will. In the former aspect it has an analogy to fear, in the latter to
+607: inclination. Respect for a person is properly only respect for the law
+608: (of honesty, etc.) of which he gives us an example. Since we also look
+609: on the improvement of our talents as a duty, we consider that we see
+610: in a person of talents, as it were, the example of a law (viz., to
+611: become like him in this by exercise), and this constitutes our
+612: respect. All so-called moral interest consists simply in respect for
+613: the law.
+614: 
+615: 
+616: 
+617: But what sort of law can that be, the conception of which must
+618: determine the will, even without paying any regard to the effect
+619: expected from it, in order that this will may be called good
+620: absolutely and without qualification? As I have deprived the will of
+621: every impulse which could arise to it from obedience to any law, there
+622: remains nothing but the universal conformity of its actions to law
+623: in general, which alone is to serve the will as a principle, i.e., I
+624: am never to act otherwise than so that I could also will that my maxim
+625: should become a universal law. Here, now, it is the simple
+626: conformity to law in general, without assuming any particular law
+627: applicable to certain actions, that serves the will as its principle
+628: and must so serve it, if duty is not to be a vain delusion and a
+629: chimerical notion. The common reason of men in its practical
+630: judgements perfectly coincides with this and always has in view the
+631: principle here suggested. Let the question be, for example: May I when
+632: in distress make a promise with the intention not to keep it? I
+633: readily distinguish here between the two significations which the
+634: question may have: Whether it is prudent, or whether it is right, to
+635: make a false promise? The former may undoubtedly often be the case. I see
+636: clearly indeed that it is not enough to extricate myself from a
+637: present difficulty by means of this subterfuge, but it must be well
+638: considered whether there may not hereafter spring from this lie much
+639: greater inconvenience than that from which I now free myself, and
+640: as, with all my supposed cunning, the consequences cannot be so easily
+641: foreseen but that credit once lost may be much more injurious to me
+642: than any mischief which I seek to avoid at present, it should be
+643: considered whether it would not be more prudent to act herein
+644: according to a universal maxim and to make it a habit to promise
+645: nothing except with the intention of keeping it. But it is soon
+646: clear to me that such a maxim will still only be based on the fear
+647: of consequences. Now it is a wholly different thing to be truthful
+648: from duty and to be so from apprehension of injurious consequences. In
+649: the first case, the very notion of the action already implies a law
+650: for me; in the second case, I must first look about elsewhere to see
+651: what results may be combined with it which would affect myself. For to
+652: deviate from the principle of duty is beyond all doubt wicked; but
+653: to be unfaithful to my maxim of prudence may often be very
+654: advantageous to me, although to abide by it is certainly safer. The
+655: shortest way, however, and an unerring one, to discover the answer
+656: to this question whether a lying promise is consistent with duty, is
+657: to ask myself, "Should I be content that my maxim (to extricate myself
+658: from difficulty by a false promise) should hold good as a universal
+659: law, for myself as well as for others?" and should I be able to say
+660: to myself, "Every one may make a deceitful promise when he finds
+661: himself in a difficulty from which he cannot otherwise extricate
+662: himself?" Then I presently become aware that while I can will the lie,
+663: I can by no means will that lying should be a universal law. For
+664: with such a law there would be no promises at all, since it would be
+665: in vain to allege my intention in regard to my future actions to those
+666: who would not believe this allegation, or if they over hastily did
+667: so would pay me back in my own coin. Hence my maxim, as soon as it
+668: should be made a universal law, would necessarily destroy itself.
+669: 
+670: I do not, therefore, need any far-reaching penetration to discern
+671: what I have to do in order that my will may be morally good.
+672: Inexperienced in the course of the world, incapable of being
+673: prepared for all its contingencies, I only ask myself: Canst thou also
+674: will that thy maxim should be a universal law? If not, then it must be
+675: rejected, and that not because of a disadvantage accruing from it to
+676: myself or even to others, but because it cannot enter as a principle
+677: into a possible universal legislation, and reason extorts from me
+678: immediate respect for such legislation. I do not indeed as yet discern
+679: on what this respect is based (this the philosopher may inquire),
+680: but at least I understand this, that it is an estimation of the
+681: worth which far outweighs all worth of what is recommended by
+682: inclination, and that the necessity of acting from pure respect for
+683: the practical law is what constitutes duty, to which every other
+684: motive must give place, because it is the condition of a will being
+685: good in itself, and the worth of such a will is above everything.
+686: 
+687: Thus, then, without quitting the moral knowledge of common human
+688: reason, we have arrived at its principle. And although, no doubt,
+689: common men do not conceive it in such an abstract and universal
+690: form, yet they always have it really before their eyes and use it as
+691: the standard of their decision. Here it would be easy to show how,
+692: with this compass in hand, men are well able to distinguish, in
+693: every case that occurs, what is good, what bad, conformably to duty or
+694: inconsistent with it, if, without in the least teaching them
+695: anything new, we only, like Socrates, direct their attention to the
+696: principle they themselves employ; and that, therefore, we do not
+697: need science and philosophy to know what we should do to be honest and
+698: good, yea, even wise and virtuous. Indeed we might well have
+699: conjectured beforehand that the knowledge of what every man is bound
+700: to do, and therefore also to know, would be within the reach of
+701: every man, even the commonest. Here we cannot forbear admiration
+702: when we see how great an advantage the practical judgement has over
+703: the theoretical in the common understanding of men. In the latter,
+704: if common reason ventures to depart from the laws of experience and
+705: from the perceptions of the senses, it falls into mere
+706: inconceivabilities and self-contradictions, at least into a chaos of
+707: uncertainty, obscurity, and instability. But in the practical sphere
+708: it is just when the common understanding excludes all sensible springs
+709: from practical laws that its power of judgement begins to show
+710: itself to advantage. It then becomes even subtle, whether it be that
+711: it chicanes with its own conscience or with other claims respecting
+712: what is to be called right, or whether it desires for its own
+713: instruction to determine honestly the worth of actions; and, in the
+714: latter case, it may even have as good a hope of hitting the mark as
+715: any philosopher whatever can promise himself. Nay, it is almost more
+716: sure of doing so, because the philosopher cannot have any other
+717: principle, while he may easily perplex his judgement by a multitude of
+718: considerations foreign to the matter, and so turn aside from the right
+719: way. Would it not therefore be wiser in moral concerns to acquiesce in
+720: the judgement of common reason, or at most only to call in
+721: philosophy for the purpose of rendering the system of morals more
+722: complete and intelligible, and its rules more convenient for use
+723: (especially for disputation), but not so as to draw off the common
+724: understanding from its happy simplicity, or to bring it by means of
+725: philosophy into a new path of inquiry and instruction?
+726: 
+727: Innocence is indeed a glorious thing; only, on the other hand, it is
+728: very sad that it cannot well maintain itself and is easily seduced. On
+729: this account even wisdom- which otherwise consists more in conduct
+730: than in knowledge- yet has need of science, not in order to learn from
+731: it, but to secure for its precepts admission and permanence. Against
+732: all the commands of duty which reason represents to man as so
+733: deserving of respect, he feels in himself a powerful counterpoise in
+734: his wants and inclinations, the entire satisfaction of which he sums
+735: up under the name of happiness. Now reason issues its commands
+736: unyieldingly, without promising anything to the inclinations, and,
+737: as it were, with disregard and contempt for these claims, which are so
+738: impetuous, and at the same time so plausible, and which will not allow
+739: themselves to be suppressed by any command. Hence there arises a
+740: natural dialectic, i.e., a disposition, to argue against these
+741: strict laws of duty and to question their validity, or at least
+742: their purity and strictness; and, if possible, to make them more
+743: accordant with our wishes and inclinations, that is to say, to corrupt
+744: them at their very source, and entirely to destroy their worth- a
+745: thing which even common practical reason cannot ultimately call good.
+746: 
+747: Thus is the common reason of man compelled to go out of its
+748: sphere, and to take a step into the field of a practical philosophy,
+749: not to satisfy any speculative want (which never occurs to it as
+750: long as it is content to be mere sound reason), but even on
+751: practical grounds, in order to attain in it information and clear
+752: instruction respecting the source of its principle, and the correct
+753: determination of it in opposition to the maxims which are based on
+754: wants and inclinations, so that it may escape from the perplexity of
+755: opposite claims and not run the risk of losing all genuine moral
+756: principles through the equivocation into which it easily falls.
+757: Thus, when practical reason cultivates itself, there insensibly arises
+758: in it a dialetic which forces it to seek aid in philosophy, just as
+759: happens to it in its theoretic use; and in this case, therefore, as
+760: well as in the other, it will find rest nowhere but in a thorough
+761: critical examination of our reason.
+762: 
+763: SEC_2
+764: 
+765:                    SECOND SECTION
+766: 
+767: 
+768: 
+769:        TRANSITION FROM POPULAR MORAL PHILOSOPHY
+770: 
+771:             TO THE METAPHYSIC OF MORALS
+772: 
+773: 
+774: 
+775: If we have hitherto drawn our notion of duty from the common use
+776: of our practical reason, it is by no means to be inferred that we have
+777: treated it as an empirical notion. On the contrary, if we attend to
+778: the experience of men's conduct, we meet frequent and, as we ourselves
+779: allow, just complaints that one cannot find a single certain example
+780: of the disposition to act from pure duty. Although many things are
+781: done in conformity with what duty prescribes, it is nevertheless
+782: always doubtful whether they are done strictly from duty, so as to
+783: have a moral worth. Hence there have at all times been philosophers
+784: who have altogether denied that this disposition actually exists at
+785: all in human actions, and have ascribed everything to a more or less
+786: refined self-love. Not that they have on that account questioned the
+787: soundness of the conception of morality; on the contrary, they spoke
+788: with sincere regret of the frailty and corruption of human nature,
+789: which, though noble enough to take its rule an idea so worthy of
+790: respect, is yet weak to follow it and employs reason which ought to
+791: give it the law only for the purpose of providing for the interest
+792: of the inclinations, whether singly or at the best in the greatest
+793: possible harmony with one another.
+794: 
+795: In fact, it is absolutely impossible to make out by experience
+796: with complete certainty a single case in which the maxim of an action,
+797: however right in itself, rested simply on moral grounds and on the
+798: conception of duty. Sometimes it happens that with the sharpest
+799: self-examination we can find nothing beside the moral principle of
+800: duty which could have been powerful enough to move us to this or
+801: that action and to so great a sacrifice; yet we cannot from this infer
+802: with certainty that it was not really some secret impulse of
+803: self-love, under the false appearance of duty, that was the actual
+804: determining cause of the will. We like them to flatter ourselves by
+805: falsely taking credit for a more noble motive; whereas in fact we
+806: can never, even by the strictest examination, get completely behind
+807: the secret springs of action; since, when the question is of moral
+808: worth, it is not with the actions which we see that we are
+809: concerned, but with those inward principles of them which we do not
+810: see.
+811: 
+812: Moreover, we cannot better serve the wishes of those who ridicule
+813: all morality as a mere chimera of human imagination over stepping
+814: itself from vanity, than by conceding to them that notions of duty
+815: must be drawn only from experience (as from indolence, people are
+816: ready to think is also the case with all other notions); for or is
+817: to prepare for them a certain triumph. I am willing to admit out of
+818: love of humanity that even most of our actions are correct, but if
+819: we look closer at them we everywhere come upon the dear self which
+820: is always prominent, and it is this they have in view and not the
+821: strict command of duty which would often require self-denial.
+822: Without being an enemy of virtue, a cool observer, one that does not
+823: mistake the wish for good, however lively, for its reality, may
+824: sometimes doubt whether true virtue is actually found anywhere in
+825: the world, and this especially as years increase and the judgement
+826: is partly made wiser by experience and partly, also, more acute in
+827: observation. This being so, nothing can secure us from falling away
+828: altogether from our ideas of duty, or maintain in the soul a
+829: well-grounded respect for its law, but the clear conviction that
+830: although there should never have been actions which really sprang from
+831: such pure sources, yet whether this or that takes place is not at
+832: all the question; but that reason of itself, independent on all
+833: experience, ordains what ought to take place, that accordingly actions
+834: of which perhaps the world has hitherto never given an example, the
+835: feasibility even of which might be very much doubted by one who founds
+836: everything on experience, are nevertheless inflexibly commanded by
+837: reason; that, e.g., even though there might never yet have been a
+838: sincere friend, yet not a whit the less is pure sincerity in
+839: friendship required of every man, because, prior to all experience,
+840: this duty is involved as duty in the idea of a reason determining
+841: the will by a priori principles.
+842: 
+843: When we add further that, unless we deny that the notion of morality
+844: has any truth or reference to any possible object, we must admit
+845: that its law must be valid, not merely for men but for all rational
+846: creatures generally, not merely under certain contingent conditions or
+847: with exceptions but with absolute necessity, then it is clear that
+848: no experience could enable us to infer even the possibility of such
+849: apodeictic laws. For with what right could we bring into unbounded
+850: respect as a universal precept for every rational nature that which
+851: perhaps holds only under the contingent conditions of humanity? Or how
+852: could laws of the determination of our will be regarded as laws of the
+853: determination of the will of rational beings generally, and for us
+854: only as such, if they were merely empirical and did not take their
+855: origin wholly a priori from pure but practical reason?
+856: 
+857: Nor could anything be more fatal to morality than that we should
+858: wish to derive it from examples. For every example of it that is set
+859: before me must be first itself tested by principles of morality,
+860: whether it is worthy to serve as an original example, i.e., as a
+861: pattern; but by no means can it authoritatively furnish the conception
+862: of morality. Even the Holy One of the Gospels must first be compared
+863: with our ideal of moral perfection before we can recognise Him as
+864: such; and so He says of Himself, "Why call ye Me (whom you see)
+865: good; none is good (the model of good) but God only (whom ye do not
+866: see)?" But whence have we the conception of God as the supreme good?
+867: Simply from the idea of moral perfection, which reason frames a priori
+868: and connects inseparably with the notion of a free will. Imitation
+869: finds no place at all in morality, and examples serve only for
+870: encouragement, i.e., they put beyond doubt the feasibility of what the
+871: law commands, they make visible that which the practical rule
+872: expresses more generally, but they can never authorize us to set aside
+873: the true original which lies in reason and to guide ourselves by
+874: examples.
+875: 
+876: If then there is no genuine supreme principle of morality but what
+877: must rest simply on pure reason, independent of all experience, I
+878: think it is not necessary even to put the question whether it is
+879: good to exhibit these concepts in their generality (in abstracto) as
+880: they are established a priori along with the principles belonging to
+881: them, if our knowledge is to be distinguished from the vulgar and to
+882: be called philosophical.
+883: 
+884: In our times indeed this might perhaps be necessary; for if we
+885: collected votes whether pure rational knowledge separated from
+886: everything empirical, that is to say, metaphysic of morals, or whether
+887: popular practical philosophy is to be preferred, it is easy to guess
+888: which side would preponderate.
+889: 
+890: This descending to popular notions is certainly very commendable, if
+891: the ascent to the principles of pure reason has first taken place
+892: and been satisfactorily accomplished. This implies that we first found
+893: ethics on metaphysics, and then, when it is firmly established,
+894: procure a hearing for it by giving it a popular character. But it is
+895: quite absurd to try to be popular in the first inquiry, on which the
+896: soundness of the principles depends. It is not only that this
+897: proceeding can never lay claim to the very rare merit of a true
+898: philosophical popularity, since there is no art in being
+899: intelligible if one renounces all thoroughness of insight; but also it
+900: produces a disgusting medley of compiled observations and
+901: half-reasoned principles. Shallow pates enjoy this because it can be
+902: used for every-day chat, but the sagacious find in it only
+903: confusion, and being unsatisfied and unable to help themselves, they
+904: turn away their eyes, while philosophers, who see quite well through
+905: this delusion, are little listened to when they call men off for a
+906: time from this pretended popularity, in order that they might be
+907: rightfully popular after they have attained a definite insight.
+908: 
+909: We need only look at the attempts of moralists in that favourite
+910: fashion, and we shall find at one time the special constitution of
+911: human nature (including, however, the idea of a rational nature
+912: generally), at one time perfection, at another happiness, here moral
+913: sense, there fear of God. a little of this, and a little of that, in
+914: marvellous mixture, without its occurring to them to ask whether the
+915: principles of morality are to be sought in the knowledge of human
+916: nature at all (which we can have only from experience); or, if this is
+917: not so, if these principles are to be found altogether a priori,
+918: free from everything empirical, in pure rational concepts only and
+919: nowhere else, not even in the smallest degree; then rather to adopt
+920: the method of making this a separate inquiry, as pure practical
+921: philosophy, or (if one may use a name so decried) as metaphysic of
+922: morals, * to bring it by itself to completeness, and to require the
+923: public, which wishes for popular treatment, to await the issue of this
+924: undertaking.
+925: 
+926: 
+927: 
+928: * Just as pure mathematics are distinguished from applied, pure
+929: logic from applied, so if we choose we may also distinguish pure
+930: philosophy of morals (metaphysic) from applied (viz., applied to human
+931: nature). By this designation we are also at once reminded that moral
+932: principles are not based on properties of human nature, but must
+933: subsist a priori of themselves, while from such principles practical
+934: rules must be capable of being deduced for every rational nature,
+935: and accordingly for that of man.
+936: 
+937: 
+938: 
+939: Such a metaphysic of morals, completely isolated, not mixed with any
+940: anthropology, theology, physics, or hyperphysics, and still less
+941: with occult qualities (which we might call hypophysical), is not
+942: only an indispensable substratum of all sound theoretical knowledge of
+943: duties, but is at the same time a desideratum of the highest
+944: importance to the actual fulfilment of their precepts. For the pure
+945: conception of duty, unmixed with any foreign addition of empirical
+946: attractions, and, in a word, the conception of the moral law,
+947: exercises on the human heart, by way of reason alone (which first
+948: becomes aware with this that it can of itself be practical), an
+949: influence so much more powerful than all other springs * which may be
+950: derived from the field of experience, that, in the consciousness of
+951: its worth, it despises the latter, and can by degrees become their
+952: master; whereas a mixed ethics, compounded partly of motives drawn
+953: from feelings and inclinations, and partly also of conceptions of
+954: reason, must make the mind waver between motives which cannot be
+955: brought under any principle, which lead to good only by mere
+956: accident and very often also to evil.
+957: 
+958: 
+959: 
+960: * I have a letter from the late excellent Sulzer, in which he asks
+961: me what can be the reason that moral instruction, although containing
+962: much that is convincing for the reason, yet accomplishes so little? My
+963: answer was postponed in order that I might make it complete. But it is
+964: simply this: that the teachers themselves have not got their own
+965: notions clear, and when they endeavour to make up for this by raking
+966: up motives of moral goodness from every quarter, trying to make
+967: their physic right strong, they spoil it. For the commonest
+968: understanding shows that if we imagine, on the one hand, an act of
+969: honesty done with steadfast mind, apart from every view to advantage
+970: of any kind in this world or another, and even under the greatest
+971: temptations of necessity or allurement, and, on the other hand, a
+972: similar act which was affected, in however low a degree, by a
+973: foreign motive, the former leaves far behind and eclipses the
+974: second; it elevates the soul and inspires the wish to be able to act
+975: in like manner oneself. Even moderately young children feel this
+976: impression, ana one should never represent duties to them in any other
+977: light.
+978: 
+979: 
+980: 
+981: From what has been said, it is clear that all moral conceptions have
+982: their seat and origin completely a priori in the reason, and that,
+983: moreover, in the commonest reason just as truly as in that which is in
+984: the highest degree speculative; that they cannot be obtained by
+985: abstraction from any empirical, and therefore merely contingent,
+986: knowledge; that it is just this purity of their origin that makes them
+987: worthy to serve as our supreme practical principle, and that just in
+988: proportion as we add anything empirical, we detract from their genuine
+989: influence and from the absolute value of actions; that it is not
+990: only of the greatest necessity, in a purely speculative point of view,
+991: but is also of the greatest practical importance, to derive these
+992: notions and laws from pure reason, to present them pure and unmixed,
+993: and even to determine the compass of this practical or pure rational
+994: knowledge, i.e., to determine the whole faculty of pure practical
+995: reason; and, in doing so, we must not make its principles dependent on
+996: the particular nature of human reason, though in speculative
+997: philosophy this may be permitted, or may even at times be necessary;
+998: but since moral laws ought to hold good for every rational creature,
+999: we must derive them from the general concept of a rational being. In
+1000: this way, although for its application to man morality has need of
+1001: anthropology, yet, in the first instance, we must treat it
+1002: independently as pure philosophy, i.e., as metaphysic, complete in
+1003: itself (a thing which in such distinct branches of science is easily
+1004: done); knowing well that unless we are in possession of this, it would
+1005: not only be vain to determine the moral element of duty in right
+1006: actions for purposes of speculative criticism, but it would be
+1007: impossible to base morals on their genuine principles, even for common
+1008: practical purposes, especially of moral instruction, so as to
+1009: produce pure moral dispositions, and to engraft them on men's minds to
+1010: the promotion of the greatest possible good in the world.
+1011: 
+1012: But in order that in this study we may not merely advance by the
+1013: natural steps from the common moral judgement (in this case very
+1014: worthy of respect) to the philosophical, as has been already done, but
+1015: also from a popular philosophy, which goes no further than it can
+1016: reach by groping with the help of examples, to metaphysic (which
+1017: does allow itself to be checked by anything empirical and, as it
+1018: must measure the whole extent of this kind of rational knowledge, goes
+1019: as far as ideal conceptions, where even examples fail us), we must
+1020: follow and clearly describe the practical faculty of reason, from
+1021: the general rules of its determination to the point where the notion
+1022: of duty springs from it.
+1023: 
+1024: Everything in nature works according to laws. Rational beings
+1025: alone have the faculty of acting according to the conception of
+1026: laws, that is according to principles, i.e., have a will. Since the
+1027: deduction of actions from principles requires reason, the will is
+1028: nothing but practical reason. If reason infallibly determines the
+1029: will, then the actions of such a being which are recognised as
+1030: objectively necessary are subjectively necessary also, i.e., the
+1031: will is a faculty to choose that only which reason independent of
+1032: inclination recognises as practically necessary, i.e., as good. But if
+1033: reason of itself does not sufficiently determine the will, if the
+1034: latter is subject also to subjective conditions (particular
+1035: impulses) which do not always coincide with the objective
+1036: conditions; in a word, if the will does not in itself completely
+1037: accord with reason (which is actually the case with men), then the
+1038: actions which objectively are recognised as necessary are subjectively
+1039: contingent, and the determination of such a will according to
+1040: objective laws is obligation, that is to say, the relation of the
+1041: objective laws to a will that is not thoroughly good is conceived as
+1042: the determination of the will of a rational being by principles of
+1043: reason, but which the will from its nature does not of necessity
+1044: follow.
+1045: 
+1046: The conception of an objective principle, in so far as it is
+1047: obligatory for a will, is called a command (of reason), and the
+1048: formula of the command is called an imperative.
+1049: 
+1050: All imperatives are expressed by the word ought [or shall], and
+1051: thereby indicate the relation of an objective law of reason to a will,
+1052: which from its subjective constitution is not necessarily determined
+1053: by it (an obligation). They say that something would be good to do
+1054: or to forbear, but they say it to a will which does not always do a
+1055: thing because it is conceived to be good to do it. That is practically
+1056: good, however, which determines the will by means of the conceptions
+1057: of reason, and consequently not from subjective causes, but
+1058: objectively, that is on principles which are valid for every
+1059: rational being as such. It is distinguished from the pleasant, as that
+1060: which influences the will only by means of sensation from merely
+1061: subjective causes, valid only for the sense of this or that one, and
+1062: not as a principle of reason, which holds for every one. *
+1063: 
+1064: 
+1065: 
+1066: * The dependence of the desires on sensations is called
+1067: inclination, and this accordingly always indicates a want. The
+1068: dependence of a contingently determinable will on principles of reason
+1069: is called an interest. This therefore, is found only in the case of
+1070: a dependent will which does not always of itself conform to reason; in
+1071: the Divine will we cannot conceive any interest. But the human will
+1072: can also take an interest in a thing without therefore acting from
+1073: interest. The former signifies the practical interest in the action,
+1074: the latter the pathological in the object of the action. The former
+1075: indicates only dependence of the will on principles of reason in
+1076: themselves; the second, dependence on principles of reason for the
+1077: sake of inclination, reason supplying only the practical rules how the
+1078: requirement of the inclination may be satisfied. In the first case the
+1079: action interests me; in the second the object of the action (because
+1080: it is pleasant to me). We have seen in the first section that in an
+1081: action done from duty we must look not to the interest in the
+1082: object, but only to that in the action itself, and in its rational
+1083: principle (viz., the law).
+1084: 
+1085: 
+1086: 
+1087: A perfectly good will would therefore be equally subject to
+1088: objective laws (viz., laws of good), but could not be conceived as
+1089: obliged thereby to act lawfully, because of itself from its subjective
+1090: constitution it can only be determined by the conception of good.
+1091: Therefore no imperatives hold for the Divine will, or in general for a
+1092: holy will; ought is here out of place, because the volition is already
+1093: of itself necessarily in unison with the law. Therefore imperatives
+1094: are only formulae to express the relation of objective laws of all
+1095: volition to the subjective imperfection of the will of this or that
+1096: rational being, e.g., the human will.
+1097: 
+1098: Now all imperatives command either hypothetically or
+1099: categorically. The former represent the practical necessity of a
+1100: possible action as means to something else that is willed (or at least
+1101: which one might possibly will). The categorical imperative would be
+1102: that which represented an action as necessary of itself without
+1103: reference to another end, i.e., as objectively necessary.
+1104: 
+1105: Since every practical law represents a possible action as good
+1106: and, on this account, for a subject who is practically determinable by
+1107: reason, necessary, all imperatives are formulae determining an
+1108: action which is necessary according to the principle of a will good in
+1109: some respects. If now the action is good only as a means to
+1110: something else, then the imperative is hypothetical; if it is
+1111: conceived as good in itself and consequently as being necessarily
+1112: the principle of a will which of itself conforms to reason, then it is
+1113: categorical.
+1114: 
+1115: Thus the imperative declares what action possible by me would be
+1116: good and presents the practical rule in relation to a will which
+1117: does not forthwith perform an action simply because it is good,
+1118: whether because the subject does not always know that it is good, or
+1119: because, even if it know this, yet its maxims might be opposed to
+1120: the objective principles of practical reason.
+1121: 
+1122: Accordingly the hypothetical imperative only says that the action is
+1123: good for some purpose, possible or actual. In the first case it is a
+1124: problematical, in the second an assertorial practical principle. The
+1125: categorical imperative which declares an action to be objectively
+1126: necessary in itself without reference to any purpose, i.e., without
+1127: any other end, is valid as an apodeictic (practical) principle.
+1128: 
+1129: Whatever is possible only by the power of some rational being may
+1130: also be conceived as a possible purpose of some will; and therefore
+1131: the principles of action as regards the means necessary to attain some
+1132: possible purpose are in fact infinitely numerous. All sciences have
+1133: a practical part, consisting of problems expressing that some end is
+1134: possible for us and of imperatives directing how it may be attained.
+1135: These may, therefore, be called in general imperatives of skill.
+1136: Here there is no question whether the end is rational and good, but
+1137: only what one must do in order to attain it. The precepts for the
+1138: physician to make his patient thoroughly healthy, and for a poisoner
+1139: to ensure certain death, are of equal value in this respect, that each
+1140: serves to effect its purpose perfectly. Since in early youth it cannot
+1141: be known what ends are likely to occur to us in the course of life,
+1142: parents seek to have their children taught a great many things, and
+1143: provide for their skill in the use of means for all sorts of arbitrary
+1144: ends, of none of which can they determine whether it may not perhaps
+1145: hereafter be an object to their pupil, but which it is at all events
+1146: possible that he might aim at; and this anxiety is so great that
+1147: they commonly neglect to form and correct their judgement on the value
+1148: of the things which may be chosen as ends.
+1149: 
+1150: There is one end, however, which may be assumed to be actually
+1151: such to all rational beings (so far as imperatives apply to them,
+1152: viz., as dependent beings), and, therefore, one purpose which they not
+1153: merely may have, but which we may with certainty assume that they
+1154: all actually have by a natural necessity, and this is happiness. The
+1155: hypothetical imperative which expresses the practical necessity of
+1156: an action as means to the advancement of happiness is assertorial.
+1157: We are not to present it as necessary for an uncertain and merely
+1158: possible purpose, but for a purpose which we may presuppose with
+1159: certainty and a priori in every man, because it belongs to his
+1160: being. Now skill in the choice of means to his own greatest well-being
+1161: may be called prudence, * in the narrowest sense. And thus the
+1162: imperative which refers to the choice of means to one's own happiness,
+1163: i.e., the precept of prudence, is still always hypothetical; the
+1164: action is not commanded absolutely, but only as means to another
+1165: purpose.
+1166: 
+1167: 
+1168: 
+1169: * The word prudence is taken in two senses: in the one it may bear
+1170: the name of knowledge of the world, in the other that of private
+1171: prudence. The former is a man's ability to influence others so as to
+1172: use them for his own purposes. The latter is the sagacity to combine
+1173: all these purposes for his own lasting benefit. This latter is
+1174: properly that to which the value even of the former is reduced, and
+1175: when a man is prudent in the former sense, but not in the latter, we
+1176: might better say of him that he is clever and cunning, but, on the
+1177: whole, imprudent.
+1178: 
+1179: 
+1180: 
+1181: Finally, there is an imperative which commands a certain conduct
+1182: immediately, without having as its condition any other purpose to be
+1183: attained by it. This imperative is categorical. It concerns not the
+1184: matter of the action, or its intended result, but its form and the
+1185: principle of which it is itself a result; and what is essentially good
+1186: in it consists in the mental disposition, let the consequence be
+1187: what it may. This imperative may be called that of morality.
+1188: 
+1189: There is a marked distinction also between the volitions on these
+1190: three sorts of principles in the dissimilarity of the obligation of
+1191: the will. In order to mark this difference more clearly, I think
+1192: they would be most suitably named in their order if we said they are
+1193: either rules of skill, or counsels of prudence, or commands (laws)
+1194: of morality. For it is law only that involves the conception of an
+1195: unconditional and objective necessity, which is consequently
+1196: universally valid; and commands are laws which must be obeyed, that
+1197: is, must be followed, even in opposition to inclination. Counsels,
+1198: indeed, involve necessity, but one which can only hold under a
+1199: contingent subjective condition, viz., they depend on whether this
+1200: or that man reckons this or that as part of his happiness; the
+1201: categorical imperative, on the contrary, is not limited by any
+1202: condition, and as being absolutely, although practically, necessary,
+1203: may be quite properly called a command. We might also call the first
+1204: kind of imperatives technical (belonging to art), the second
+1205: pragmatic * (to welfare), the third moral (belonging to free conduct
+1206: generally, that is, to morals).
+1207: 
+1208: 
+1209: 
+1210: * It seems to me that the proper signification of the word
+1211: pragmatic may be most accurately defined in this way. For sanctions
+1212: are called pragmatic which flow properly not from the law of the
+1213: states as necessary enactments, but from precaution for the general
+1214: welfare. A history is composed pragmatically when it teaches prudence,
+1215: i.e., instructs the world how it can provide for its interests better,
+1216: or at least as well as, the men of former time.
+1217: 
+1218: 
+1219: 
+1220: Now arises the question, how are all these imperatives possible?
+1221: This question does not seek to know how we can conceive the
+1222: accomplishment of the action which the imperative ordains, but
+1223: merely how we can conceive the obligation of the will which the
+1224: imperative expresses. No special explanation is needed to show how
+1225: an imperative of skill is possible. Whoever wills the end, wills
+1226: also (so far as reason decides his conduct) the means in his power
+1227: which are indispensably necessary thereto. This proposition is, as
+1228: regards the volition, analytical; for, in willing an object as my
+1229: effect, there is already thought the causality of myself as an
+1230: acting cause, that is to say, the use of the means; and the imperative
+1231: educes from the conception of volition of an end the conception of
+1232: actions necessary to this end. Synthetical propositions must no
+1233: doubt be employed in defining the means to a proposed end; but they do
+1234: not concern the principle, the act of the will, but the object and its
+1235: realization. E.g., that in order to bisect a line on an unerring
+1236: principle I must draw from its extremities two intersecting arcs; this
+1237: no doubt is taught by mathematics only in synthetical propositions;
+1238: but if I know that it is only by this process that the intended
+1239: operation can be performed, then to say that, if I fully will the
+1240: operation, I also will the action required for it, is an analytical
+1241: proposition; for it is one and the same thing to conceive something as
+1242: an effect which I can produce in a certain way, and to conceive myself
+1243: as acting in this way.
+1244: 
+1245: If it were only equally easy to give a definite conception of
+1246: happiness, the imperatives of prudence would correspond exactly with
+1247: those of skill, and would likewise be analytical. For in this case
+1248: as in that, it could be said: "Whoever wills the end, wills also
+1249: (according to the dictate of reason necessarily) the indispensable
+1250: means thereto which are in his power." But, unfortunately, the
+1251: notion of happiness is so indefinite that although every man wishes to
+1252: attain it, yet he never can say definitely and consistently what it is
+1253: that he really wishes and wills. The reason of this is that all the
+1254: elements which belong to the notion of happiness are altogether
+1255: empirical, i.e., they must be borrowed from experience, and
+1256: nevertheless the idea of happiness requires an absolute whole, a
+1257: maximum of welfare in my present and all future circumstances. Now
+1258: it is impossible that the most clear-sighted and at the same time most
+1259: powerful being (supposed finite) should frame to himself a definite
+1260: conception of what he really wills in this. Does he will riches, how
+1261: much anxiety, envy, and snares might he not thereby draw upon his
+1262: shoulders? Does he will knowledge and discernment, perhaps it might
+1263: prove to be only an eye so much the sharper to show him so much the
+1264: more fearfully the evils that are now concealed from him, and that
+1265: cannot be avoided, or to impose more wants on his desires, which
+1266: already give him concern enough. Would he have long life? who
+1267: guarantees to him that it would not be a long misery? would he at
+1268: least have health? how often has uneasiness of the body restrained
+1269: from excesses into which perfect health would have allowed one to
+1270: fall? and so on. In short, he is unable, on any principle, to
+1271: determine with certainty what would make him truly happy; because to
+1272: do so he would need to be omniscient. We cannot therefore act on any
+1273: definite principles to secure happiness, but only on empirical
+1274: counsels, e.g. of regimen, frugality, courtesy, reserve, etc., which
+1275: experience teaches do, on the average, most promote well-being.
+1276: Hence it follows that the imperatives of prudence do not, strictly
+1277: speaking, command at all, that is, they cannot present actions
+1278: objectively as practically necessary; that they are rather to be
+1279: regarded as counsels (consilia) than precepts precepts of reason, that
+1280: the problem to determine certainly and universally what action would
+1281: promote the happiness of a rational being is completely insoluble, and
+1282: consequently no imperative respecting it is possible which should,
+1283: in the strict sense, command to do what makes happy; because happiness
+1284: is not an ideal of reason but of imagination, resting solely on
+1285: empirical grounds, and it is vain to expect that these should define
+1286: an action by which one could attain the totality of a series of
+1287: consequences which is really endless. This imperative of prudence
+1288: would however be an analytical proposition if we assume that the means
+1289: to happiness could be certainly assigned; for it is distinguished from
+1290: the imperative of skill only by this, that in the latter the end is
+1291: merely possible, in the former it is given; as however both only
+1292: ordain the means to that which we suppose to be willed as an end, it
+1293: follows that the imperative which ordains the willing of the means
+1294: to him who wills the end is in both cases analytical. Thus there is no
+1295: difficulty in regard to the possibility of an imperative of this
+1296: kind either.
+1297: 
+1298: On the other hand, the question how the imperative of morality is
+1299: possible, is undoubtedly one, the only one, demanding a solution, as
+1300: this is not at all hypothetical, and the objective necessity which
+1301: it presents cannot rest on any hypothesis, as is the case with the
+1302: hypothetical imperatives. Only here we must never leave out of
+1303: consideration that we cannot make out by any example, in other words
+1304: empirically, whether there is such an imperative at all, but it is
+1305: rather to be feared that all those which seem to be categorical may
+1306: yet be at bottom hypothetical. For instance, when the precept is:
+1307: "Thou shalt not promise deceitfully"; and it is assumed that the
+1308: necessity of this is not a mere counsel to avoid some other evil, so
+1309: that it should mean: "Thou shalt not make a lying promise, lest if
+1310: it become known thou shouldst destroy thy credit," but that an
+1311: action of this kind must be regarded as evil in itself, so that the
+1312: imperative of the prohibition is categorical; then we cannot show with
+1313: certainty in any example that the will was determined merely by the
+1314: law, without any other spring of action, although it may appear to
+1315: be so. For it is always possible that fear of disgrace, perhaps also
+1316: obscure dread of other dangers, may have a secret influence on the
+1317: will. Who can prove by experience the non-existence of a cause when
+1318: all that experience tells us is that we do not perceive it? But in
+1319: such a case the so-called moral imperative, which as such appears to
+1320: be categorical and unconditional, would in reality be only a pragmatic
+1321: precept, drawing our attention to our own interests and merely
+1322: teaching us to take these into consideration.
+1323: 
+1324: We shall therefore have to investigate a priori the possibility of a
+1325: categorical imperative, as we have not in this case the advantage of
+1326: its reality being given in experience, so that [the elucidation of]
+1327: its possibility should be requisite only for its explanation, not
+1328: for its establishment. In the meantime it may be discerned
+1329: beforehand that the categorical imperative alone has the purport of
+1330: a practical law; all the rest may indeed be called principles of the
+1331: will but not laws, since whatever is only necessary for the attainment
+1332: of some arbitrary purpose may be considered as in itself contingent,
+1333: and we can at any time be free from the precept if we give up the
+1334: purpose; on the contrary, the unconditional command leaves the will no
+1335: liberty to choose the opposite; consequently it alone carries with
+1336: it that necessity which we require in a law.
+1337: 
+1338: Secondly, in the case of this categorical imperative or law of
+1339: morality, the difficulty (of discerning its possibility) is a very
+1340: profound one. It is an a priori synthetical practical proposition; *
+1341: and as there is so much difficulty in discerning the possibility of
+1342: speculative propositions of this kind, it may readily be supposed that
+1343: the difficulty will be no less with the practical.
+1344: 
+1345: 
+1346: 
+1347: * I connect the act with the will without presupposing any
+1348: condition resulting from any inclination, but a priori, and
+1349: therefore necessarily (though only objectively, i.e., assuming the
+1350: idea of a reason possessing full power over all subjective motives).
+1351: This is accordingly a practical proposition which does not deduce
+1352: the willing of an action by mere analysis from another already
+1353: presupposed (for we have not such a perfect will), but connects it
+1354: immediately with the conception of the will of a rational being, as
+1355: something not contained in it.
+1356: 
+1357: 
+1358: 
+1359: In this problem we will first inquire whether the mere conception of
+1360: a categorical imperative may not perhaps supply us also with the
+1361: formula of it, containing the proposition which alone can be a
+1362: categorical imperative; for even if we know the tenor of such an
+1363: absolute command, yet how it is possible will require further
+1364: special and laborious study, which we postpone to the last section.
+1365: 
+1366: When I conceive a hypothetical imperative, in general I do not
+1367: know beforehand what it will contain until I am given the condition.
+1368: But when I conceive a categorical imperative, I know at once what it
+1369: contains. For as the imperative contains besides the law only the
+1370: necessity that the maxims * shall conform to this law, while the law
+1371: contains no conditions restricting it, there remains nothing but the
+1372: general statement that the maxim of the action should conform to a
+1373: universal law, and it is this conformity alone that the imperative
+1374: properly represents as necessary.
+1375: 
+1376: 
+1377: 
+1378: * A maxim is a subjective principle of action, and must be
+1379: distinguished from the objective principle, namely, practical law. The
+1380: former contains the practical rule set by reason according to the
+1381: conditions of the subject (often its ignorance or its inclinations),
+1382: so that it is the principle on which the subject acts; but the law
+1383: is the objective principle valid for every rational being, and is
+1384: the principle on which it ought to act that is an imperative.
+1385: 
+1386: 
+1387: 
+1388: There is therefore but one categorical imperative, namely, this: Act
+1389: only on that maxim whereby thou canst at the same time will that it
+1390: should become a universal law.
+1391: 
+1392: Now if all imperatives of duty can be deduced from this one
+1393: imperative as from their principle, then, although it should remain
+1394: undecided what is called duty is not merely a vain notion, yet at
+1395: least we shall be able to show what we understand by it and what
+1396: this notion means.
+1397: 
+1398: Since the universality of the law according to which effects are
+1399: produced constitutes what is properly called nature in the most
+1400: general sense (as to form), that is the existence of things so far
+1401: as it is determined by general laws, the imperative of duty may be
+1402: expressed thus: Act as if the maxim of thy action were to become by
+1403: thy will a universal law of nature.
+1404: 
+1405: We will now enumerate a few duties, adopting the usual division of
+1406: them into duties to ourselves and ourselves and to others, and into
+1407: perfect and imperfect duties. *
+1408: 
+1409: 
+1410: 
+1411: * It must be noted here that I reserve the division of duties for a
+1412: future metaphysic of morals; so that I give it here only as an
+1413: arbitrary one (in order to arrange my examples). For the rest, I
+1414: understand by a perfect duty one that admits no exception in favour of
+1415: inclination and then I have not merely external but also internal
+1416: perfect duties. This is contrary to the use of the word adopted in the
+1417: schools; but I do not intend to justify there, as it is all one for my
+1418: purpose whether it is admitted or not.
+1419: 
+1420: 
+1421: 
+1422: 1. A man reduced to despair by a series of misfortunes feels wearied
+1423: of life, but is still so far in possession of his reason that he can
+1424: ask himself whether it would not be contrary to his duty to himself to
+1425: take his own life. Now he inquires whether the maxim of his action
+1426: could become a universal law of nature. His maxim is: "From
+1427: self-love I adopt it as a principle to shorten my life when its longer
+1428: duration is likely to bring more evil than satisfaction." It is
+1429: asked then simply whether this principle founded on self-love can
+1430: become a universal law of nature. Now we see at once that a system
+1431: of nature of which it should be a law to destroy life by means of
+1432: the very feeling whose special nature it is to impel to the
+1433: improvement of life would contradict itself and, therefore, could
+1434: not exist as a system of nature; hence that maxim cannot possibly
+1435: exist as a universal law of nature and, consequently, would be
+1436: wholly inconsistent with the supreme principle of all duty.
+1437: 
+1438: 2. Another finds himself forced by necessity to borrow money. He
+1439: knows that he will not be able to repay it, but sees also that nothing
+1440: will be lent to him unless he promises stoutly to repay it in a
+1441: definite time. He desires to make this promise, but he has still so
+1442: much conscience as to ask himself: "Is it not unlawful and
+1443: inconsistent with duty to get out of a difficulty in this way?"
+1444: Suppose however that he resolves to do so: then the maxim of his
+1445: action would be expressed thus: "When I think myself in want of money,
+1446: I will borrow money and promise to repay it, although I know that I
+1447: never can do so." Now this principle of self-love or of one's own
+1448: advantage may perhaps be consistent with my whole future welfare;
+1449: but the question now is, "Is it right?" I change then the suggestion
+1450: of self-love into a universal law, and state the question thus: "How
+1451: would it be if my maxim were a universal law?" Then I see at once that
+1452: it could never hold as a universal law of nature, but would
+1453: necessarily contradict itself. For supposing it to be a universal
+1454: law that everyone when he thinks himself in a difficulty should be
+1455: able to promise whatever he pleases, with the purpose of not keeping
+1456: his promise, the promise itself would become impossible, as well as
+1457: the end that one might have in view in it, since no one would consider
+1458: that anything was promised to him, but would ridicule all such
+1459: statements as vain pretences.
+1460: 
+1461: 3. A third finds in himself a talent which with the help of some
+1462: culture might make him a useful man in many respects. But he finds
+1463: himself in comfortable circumstances and prefers to indulge in
+1464: pleasure rather than to take pains in enlarging and improving his
+1465: happy natural capacities. He asks, however, whether his maxim of
+1466: neglect of his natural gifts, besides agreeing with his inclination to
+1467: indulgence, agrees also with what is called duty. He sees then that
+1468: a system of nature could indeed subsist with such a universal law
+1469: although men (like the South Sea islanders) should let their talents
+1470: rest and resolve to devote their lives merely to idleness,
+1471: amusement, and propagation of their species- in a word, to
+1472: enjoyment; but he cannot possibly will that this should be a universal
+1473: law of nature, or be implanted in us as such by a natural instinct.
+1474: For, as a rational being, he necessarily wills that his faculties be
+1475: developed, since they serve him and have been given him, for all sorts
+1476: of possible purposes.
+1477: 
+1478: 4. A fourth, who is in prosperity, while he sees that others have to
+1479: contend with great wretchedness and that he could help them, thinks:
+1480: "What concern is it of mine? Let everyone be as happy as Heaven
+1481: pleases, or as he can make himself; I will take nothing from him nor
+1482: even envy him, only I do not wish to contribute anything to his
+1483: welfare or to his assistance in distress!" Now no doubt if such a mode
+1484: of thinking were a universal law, the human race might very well
+1485: subsist and doubtless even better than in a state in which everyone
+1486: talks of sympathy and good-will, or even takes care occasionally to
+1487: put it into practice, but, on the other side, also cheats when he can,
+1488: betrays the rights of men, or otherwise violates them. But although it
+1489: is possible that a universal law of nature might exist in accordance
+1490: with that maxim, it is impossible to will that such a principle should
+1491: have the universal validity of a law of nature. For a will which
+1492: resolved this would contradict itself, inasmuch as many cases might
+1493: occur in which one would have need of the love and sympathy of others,
+1494: and in which, by such a law of nature, sprung from his own will, he
+1495: would deprive himself of all hope of the aid he desires.
+1496: 
+1497: These are a few of the many actual duties, or at least what we
+1498: regard as such, which obviously fall into two classes on the one
+1499: principle that we have laid down. We must be able to will that a maxim
+1500: of our action should be a universal law. This is the canon of the
+1501: moral appreciation of the action generally. Some actions are of such a
+1502: character that their maxim cannot without contradiction be even
+1503: conceived as a universal law of nature, far from it being possible
+1504: that we should will that it should be so. In others this intrinsic
+1505: impossibility is not found, but still it is impossible to will that
+1506: their maxim should be raised to the universality of a law of nature,
+1507: since such a will would contradict itself It is easily seen that the
+1508: former violate strict or rigorous (inflexible) duty; the latter only
+1509: laxer (meritorious) duty. Thus it has been completely shown how all
+1510: duties depend as regards the nature of the obligation (not the
+1511: object of the action) on the same principle.
+1512: 
+1513: If now we attend to ourselves on occasion of any transgression of
+1514: duty, we shall find that we in fact do not will that our maxim
+1515: should be a universal law, for that is impossible for us; on the
+1516: contrary, we will that the opposite should remain a universal law,
+1517: only we assume the liberty of making an exception in our own favour or
+1518: (just for this time only) in favour of our inclination. Consequently
+1519: if we considered all cases from one and the same point of view,
+1520: namely, that of reason, we should find a contradiction in our own
+1521: will, namely, that a certain principle should be objectively necessary
+1522: as a universal law, and yet subjectively should not be universal,
+1523: but admit of exceptions. As however we at one moment regard our action
+1524: from the point of view of a will wholly conformed to reason, and
+1525: then again look at the same action from the point of view of a will
+1526: affected by inclination, there is not really any contradiction, but an
+1527: antagonism of inclination to the precept of reason, whereby the
+1528: universality of the principle is changed into a mere generality, so
+1529: that the practical principle of reason shall meet the maxim half
+1530: way. Now, although this cannot be justified in our own impartial
+1531: judgement, yet it proves that we do really recognise the validity of
+1532: the categorical imperative and (with all respect for it) only allow
+1533: ourselves a few exceptions, which we think unimportant and forced from
+1534: us.
+1535: 
+1536: We have thus established at least this much, that if duty is a
+1537: conception which is to have any import and real legislative
+1538: authority for our actions, it can only be expressed in categorical and
+1539: not at all in hypothetical imperatives. We have also, which is of
+1540: great importance, exhibited clearly and definitely for every practical
+1541: application the content of the categorical imperative, which must
+1542: contain the principle of all duty if there is such a thing at all.
+1543: We have not yet, however, advanced so far as to prove a priori that
+1544: there actually is such an imperative, that there is a practical law
+1545: which commands absolutely of itself and without any other impulse, and
+1546: that the following of this law is duty.
+1547: 
+1548: With the view of attaining to this, it is of extreme importance to
+1549: remember that we must not allow ourselves to think of deducing the
+1550: reality of this principle from the particular attributes of human
+1551: nature. For duty is to be a practical, unconditional necessity of
+1552: action; it must therefore hold for all rational beings (to whom an
+1553: imperative can apply at all), and for this reason only be also a law
+1554: for all human wills. On the contrary, whatever is deduced from the
+1555: particular natural characteristics of humanity, from certain
+1556: feelings and propensions, nay, even, if possible, from any
+1557: particular tendency proper to human reason, and which need not
+1558: necessarily hold for the will of every rational being; this may indeed
+1559: supply us with a maxim, but not with a law; with a subjective
+1560: principle on which we may have a propension and inclination to act,
+1561: but not with an objective principle on which we should be enjoined
+1562: to act, even though all our propensions, inclinations, and natural
+1563: dispositions were opposed to it. In fact, the sublimity and
+1564: intrinsic dignity of the command in duty are so much the more evident,
+1565: the less the subjective impulses favour it and the more they oppose
+1566: it, without being able in the slightest degree to weaken the
+1567: obligation of the law or to diminish its validity.
+1568: 
+1569: Here then we see philosophy brought to a critical position, since it
+1570: has to be firmly fixed, notwithstanding that it has nothing to support
+1571: it in heaven or earth. Here it must show its purity as absolute
+1572: director of its own laws, not the herald of those which are
+1573: whispered to it by an implanted sense or who knows what tutelary
+1574: nature. Although these may be better than nothing, yet they can
+1575: never afford principles dictated by reason, which must have their
+1576: source wholly a priori and thence their commanding authority,
+1577: expecting everything from the supremacy of the law and the due respect
+1578: for it, nothing from inclination, or else condemning the man to
+1579: self-contempt and inward abhorrence.
+1580: 
+1581: Thus every empirical element is not only quite incapable of being an
+1582: aid to the principle of morality, but is even highly prejudicial to
+1583: the purity of morals, for the proper and inestimable worth of an
+1584: absolutely good will consists just in this, that the principle of
+1585: action is free from all influence of contingent grounds, which alone
+1586: experience can furnish. We cannot too much or too often repeat our
+1587: warning against this lax and even mean habit of thought which seeks
+1588: for its principle amongst empirical motives and laws; for human reason
+1589: in its weariness is glad to rest on this pillow, and in a dream of
+1590: sweet illusions (in which, instead of Juno, it embraces a cloud) it
+1591: substitutes for morality a bastard patched up from limbs of various
+1592: derivation, which looks like anything one chooses to see in it, only
+1593: not like virtue to one who has once beheld her in her true form. *
+1594: 
+1595: 
+1596: 
+1597: * To behold virtue in her proper form is nothing else but to
+1598: contemplate morality stripped of all admixture of sensible things
+1599: and of every spurious ornament of reward or self-love. How much she
+1600: then eclipses everything else that appears charming to the affections,
+1601: every one may readily perceive with the least exertion of his
+1602: reason, if it be not wholly spoiled for abstraction.
+1603: 
+1604: 
+1605: 
+1606: The question then is this: "Is it a necessary law for all rational
+1607: beings that they should always judge of their actions by maxims of
+1608: which they can themselves will that they should serve as universal
+1609: laws?" If it is so, then it must be connected (altogether a priori)
+1610: with the very conception of the will of a rational being generally.
+1611: But in order to discover this connexion we must, however
+1612: reluctantly, take a step into metaphysic, although into a domain of it
+1613: which is distinct from speculative philosophy, namely, the
+1614: metaphysic of morals. In a practical philosophy, where it is not the
+1615: reasons of what happens that we have to ascertain, but the laws of
+1616: what ought to happen, even although it never does, i.e., objective
+1617: practical laws, there it is not necessary to inquire into the
+1618: reasons why anything pleases or displeases, how the pleasure of mere
+1619: sensation differs from taste, and whether the latter is distinct
+1620: from a general satisfaction of reason; on what the feeling of pleasure
+1621: or pain rests, and how from it desires and inclinations arise, and
+1622: from these again maxims by the co-operation of reason: for all this
+1623: belongs to an empirical psychology, which would constitute the
+1624: second part of physics, if we regard physics as the philosophy of
+1625: nature, so far as it is based on empirical laws. But here we are
+1626: concerned with objective practical laws and, consequently, with the
+1627: relation of the will to itself so far as it is determined by reason
+1628: alone, in which case whatever has reference to anything empirical is
+1629: necessarily excluded; since if reason of itself alone determines the
+1630: conduct (and it is the possibility of this that we are now
+1631: investigating), it must necessarily do so a priori.
+1632: 
+1633: The will is conceived as a faculty of determining oneself to
+1634: action in accordance with the conception of certain laws. And such a
+1635: faculty can be found only in rational beings. Now that which serves
+1636: the will as the objective ground of its self-determination is the end,
+1637: and, if this is assigned by reason alone, it must hold for all
+1638: rational beings. On the other hand, that which merely contains the
+1639: ground of possibility of the action of which the effect is the end,
+1640: this is called the means. The subjective ground of the desire is the
+1641: spring, the objective ground of the volition is the motive; hence
+1642: the distinction between subjective ends which rest on springs, and
+1643: objective ends which depend on motives valid for every rational being.
+1644: Practical principles are formal when they abstract from all subjective
+1645: ends; they are material when they assume these, and therefore
+1646: particular springs of action. The ends which a rational being proposes
+1647: to himself at pleasure as effects of his actions (material ends) are
+1648: all only relative, for it is only their relation to the particular
+1649: desires of the subject that gives them their worth, which therefore
+1650: cannot furnish principles universal and necessary for all rational
+1651: beings and for every volition, that is to say practical laws. Hence
+1652: all these relative ends can give rise only to hypothetical
+1653: imperatives.
+1654: 
+1655: Supposing, however, that there were something whose existence has in
+1656: itself an absolute worth, something which, being an end in itself,
+1657: could be a source of definite laws; then in this and this alone
+1658: would lie the source of a possible categorical imperative, i.e., a
+1659: practical law.
+1660: 
+1661: Now I say: man and generally any rational being exists as an end
+1662: in himself, not merely as a means to be arbitrarily used by this or
+1663: that will, but in all his actions, whether they concern himself or
+1664: other rational beings, must be always regarded at the same time as
+1665: an end. All objects of the inclinations have only a conditional worth,
+1666: for if the inclinations and the wants founded on them did not exist,
+1667: then their object would be without value. But the inclinations,
+1668: themselves being sources of want, are so far from having an absolute
+1669: worth for which they should be desired that on the contrary it must be
+1670: the universal wish of every rational being to be wholly free from
+1671: them. Thus the worth of any object which is to be acquired by our
+1672: action is always conditional. Beings whose existence depends not on
+1673: our will but on nature's, have nevertheless, if they are irrational
+1674: beings, only a relative value as means, and are therefore called
+1675: things; rational beings, on the contrary, are called persons,
+1676: because their very nature points them out as ends in themselves,
+1677: that is as something which must not be used merely as means, and so
+1678: far therefore restricts freedom of action (and is an object of
+1679: respect). These, therefore, are not merely subjective ends whose
+1680: existence has a worth for us as an effect of our action, but objective
+1681: ends, that is, things whose existence is an end in itself; an end
+1682: moreover for which no other can be substituted, which they should
+1683: subserve merely as means, for otherwise nothing whatever would possess
+1684: absolute worth; but if all worth were conditioned and therefore
+1685: contingent, then there would be no supreme practical principle of
+1686: reason whatever.
+1687: 
+1688: If then there is a supreme practical principle or, in respect of the
+1689: human will, a categorical imperative, it must be one which, being
+1690: drawn from the conception of that which is necessarily an end for
+1691: everyone because it is an end in itself, constitutes an objective
+1692: principle of will, and can therefore serve as a universal practical
+1693: law. The foundation of this principle is: rational nature exists as an
+1694: end in itself. Man necessarily conceives his own existence as being
+1695: so; so far then this is a subjective principle of human actions. But
+1696: every other rational being regards its existence similarly, just on
+1697: the same rational principle that holds for me: * so that it is at the
+1698: same time an objective principle, from which as a supreme practical
+1699: law all laws of the will must be capable of being deduced. Accordingly
+1700: the practical imperative will be as follows: So act as to treat
+1701: humanity, whether in thine own person or in that of any other, in
+1702: every case as an end withal, never as means only. We will now
+1703: inquire whether this can be practically carried out.
+1704: 
+1705: 
+1706: 
+1707: * This proposition is here stated as a postulate. The ground of it
+1708: will be found in the concluding section.
+1709: 
+1710: 
+1711: 
+1712: To abide by the previous examples:
+1713: 
+1714: Firstly, under the head of necessary duty to oneself: He who
+1715: contemplates suicide should ask himself whether his action can be
+1716: consistent with the idea of humanity as an end in itself. If he
+1717: destroys himself in order to escape from painful circumstances, he
+1718: uses a person merely as a mean to maintain a tolerable condition up to
+1719: the end of life. But a man is not a thing, that is to say, something
+1720: which can be used merely as means, but must in all his actions be
+1721: always considered as an end in himself. I cannot, therefore, dispose
+1722: in any way of a man in my own person so as to mutilate him, to
+1723: damage or kill him. (It belongs to ethics proper to define this
+1724: principle more precisely, so as to avoid all misunderstanding, e.
+1725: g., as to the amputation of the limbs in order to preserve myself,
+1726: as to exposing my life to danger with a view to preserve it, etc. This
+1727: question is therefore omitted here.)
+1728: 
+1729: Secondly, as regards necessary duties, or those of strict
+1730: obligation, towards others: He who is thinking of making a lying
+1731: promise to others will see at once that he would be using another
+1732: man merely as a mean, without the latter containing at the same time
+1733: the end in himself. For he whom I propose by such a promise to use for
+1734: my own purposes cannot possibly assent to my mode of acting towards
+1735: him and, therefore, cannot himself contain the end of this action.
+1736: This violation of the principle of humanity in other men is more
+1737: obvious if we take in examples of attacks on the freedom and
+1738: property of others. For then it is clear that he who transgresses
+1739: the rights of men intends to use the person of others merely as a
+1740: means, without considering that as rational beings they ought always
+1741: to be esteemed also as ends, that is, as beings who must be capable of
+1742: containing in themselves the end of the very same action. *
+1743: 
+1744: 
+1745: 
+1746: * Let it not be thought that the common "quod tibi non vis fieri,
+1747: etc." could serve here as the rule or principle. For it is only a
+1748: deduction from the former, though with several limitations; it
+1749: cannot be a universal law, for it does not contain the principle of
+1750: duties to oneself, nor of the duties of benevolence to others (for
+1751: many a one would gladly consent that others should not benefit him,
+1752: provided only that he might be excused from showing benevolence to
+1753: them), nor finally that of duties of strict obligation to one another,
+1754: for on this principle the criminal might argue against the judge who
+1755: punishes him, and so on.
+1756: 
+1757: 
+1758: 
+1759: Thirdly, as regards contingent (meritorious) duties to oneself: It
+1760: is not enough that the action does not violate humanity in our own
+1761: person as an end in itself, it must also harmonize with it. Now
+1762: there are in humanity capacities of greater perfection, which belong
+1763: to the end that nature has in view in regard to humanity in
+1764: ourselves as the subject: to neglect these might perhaps be consistent
+1765: with the maintenance of humanity as an end in itself, but not with the
+1766: advancement of this end.
+1767: 
+1768: Fourthly, as regards meritorious duties towards others: The
+1769: natural end which all men have is their own happiness. Now humanity
+1770: might indeed subsist, although no one should contribute anything to
+1771: the happiness of others, provided he did not intentionally withdraw
+1772: anything from it; but after all this would only harmonize negatively
+1773: not positively with humanity as an end in itself, if every one does
+1774: not also endeavour, as far as in him lies, to forward the ends of
+1775: others. For the ends of any subject which is an end in himself ought
+1776: as far as possible to be my ends also, if that conception is to have
+1777: its full effect with me.
+1778: 
+1779: This principle, that humanity and generally every rational nature is
+1780: an end in itself (which is the supreme limiting condition of every
+1781: man's freedom of action), is not borrowed from experience, firstly,
+1782: because it is universal, applying as it does to all rational beings
+1783: whatever, and experience is not capable of determining anything
+1784: about them; secondly, because it does not present humanity as an end
+1785: to men (subjectively), that is as an object which men do of themselves
+1786: actually adopt as an end; but as an objective end, which must as a law
+1787: constitute the supreme limiting condition of all our subjective
+1788: ends, let them be what we will; it must therefore spring from pure
+1789: reason. In fact the objective principle of all practical legislation
+1790: lies (according to the first principle) in the rule and its form of
+1791: universality which makes it capable of being a law (say, e. g., a
+1792: law of nature); but the subjective principle is in the end; now by the
+1793: second principle the subject of all ends is each rational being,
+1794: inasmuch as it is an end in itself. Hence follows the third
+1795: practical principle of the will, which is the ultimate condition of
+1796: its harmony with universal practical reason, viz.: the idea of the
+1797: will of every rational being as a universally legislative will.
+1798: 
+1799: On this principle all maxims are rejected which are inconsistent
+1800: with the will being itself universal legislator. Thus the will is
+1801: not subject simply to the law, but so subject that it must be regarded
+1802: as itself giving the law and, on this ground only, subject to the
+1803: law (of which it can regard itself as the author).
+1804: 
+1805: In the previous imperatives, namely, that based on the conception of
+1806: the conformity of actions to general laws, as in a physical system
+1807: of nature, and that based on the universal prerogative of rational
+1808: beings as ends in themselves- these imperatives, just because they
+1809: were conceived as categorical, excluded from any share in their
+1810: authority all admixture of any interest as a spring of action; they
+1811: were, however, only assumed to be categorical, because such an
+1812: assumption was necessary to explain the conception of duty. But we
+1813: could not prove independently that there are practical propositions
+1814: which command categorically, nor can it be proved in this section; one
+1815: thing, however, could be done, namely, to indicate in the imperative
+1816: itself, by some determinate expression, that in the case of volition
+1817: from duty all interest is renounced, which is the specific criterion
+1818: of categorical as distinguished from hypothetical imperatives. This is
+1819: done in the present (third) formula of the principle, namely, in the
+1820: idea of the will of every rational being as a universally
+1821: legislating will.
+1822: 
+1823: For although a will which is subject to laws may be attached to this
+1824: law by means of an interest, yet a will which is itself a supreme
+1825: lawgiver so far as it is such cannot possibly depend on any
+1826: interest, since a will so dependent would itself still need another
+1827: law restricting the interest of its self-love by the condition that it
+1828: should be valid as universal law.
+1829: 
+1830: Thus the principle that every human will is a will which in all
+1831: its maxims gives universal laws, * provided it be otherwise
+1832: justified, would be very well adapted to be the categorical
+1833: imperative, in this respect, namely, that just because of the idea
+1834: of universal legislation it is not based on interest, and therefore it
+1835: alone among all possible imperatives can be unconditional. Or still
+1836: better, converting the proposition, if there is a categorical
+1837: imperative (i.e., a law for the will of every rational being), it
+1838: can only command that everything be done from maxims of one's will
+1839: regarded as a will which could at the same time will that it should
+1840: itself give universal laws, for in that case only the practical
+1841: principle and the imperative which it obeys are unconditional, since
+1842: they cannot be based on any interest.
+1843: 
+1844: 
+1845: 
+1846: * I may be excused from adducing examples to elucidate this
+1847: principle, as those which have already been used to elucidate the
+1848: categorical imperative and its formula would all serve for the like
+1849: purpose here.
+1850: 
+1851: 
+1852: 
+1853: Looking back now on all previous attempts to discover the
+1854: principle of morality, we need not wonder why they all failed. It
+1855: was seen that man was bound to laws by duty, but it was not observed
+1856: that the laws to which he is subject are only those of his own giving,
+1857: though at the same time they are universal, and that he is only
+1858: bound to act in conformity with his own will; a will, however, which
+1859: is designed by nature to give universal laws. For when one has
+1860: conceived man only as subject to a law (no matter what), then this law
+1861: required some interest, either by way of attraction or constraint,
+1862: since it did not originate as a law from his own will, but this will
+1863: was according to a law obliged by something else to act in a certain
+1864: manner. Now by this necessary consequence all the labour spent in
+1865: finding a supreme principle of duty was irrevocably lost. For men
+1866: never elicited duty, but only a necessity of acting from a certain
+1867: interest. Whether this interest was private or otherwise, in any
+1868: case the imperative must be conditional and could not by any means
+1869: be capable of being a moral command. I will therefore call this the
+1870: principle of autonomy of the will, in contrast with every other
+1871: which I accordingly reckon as heteronomy.
+1872: 
+1873: The conception of the will of every rational being as one which must
+1874: consider itself as giving in all the maxims of its will universal
+1875: laws, so as to judge itself and its actions from this point of view-
+1876: this conception leads to another which depends on it and is very
+1877: fruitful, namely that of a kingdom of ends.
+1878: 
+1879: By a kingdom I understand the union of different rational beings
+1880: in a system by common laws. Now since it is by laws that ends are
+1881: determined as regards their universal validity, hence, if we
+1882: abstract from the personal differences of rational beings and likewise
+1883: from all the content of their private ends, we shall be able to
+1884: conceive all ends combined in a systematic whole (including both
+1885: rational beings as ends in themselves, and also the special ends which
+1886: each may propose to himself), that is to say, we can conceive a
+1887: kingdom of ends, which on the preceding principles is possible.
+1888: 
+1889: For all rational beings come under the law that each of them must
+1890: treat itself and all others never merely as means, but in every case
+1891: at the same time as ends in themselves. Hence results a systematic
+1892: union of rational being by common objective laws, i.e., a kingdom
+1893: which may be called a kingdom of ends, since what these laws have in
+1894: view is just the relation of these beings to one another as ends and
+1895: means. It is certainly only an ideal.
+1896: 
+1897: A rational being belongs as a member to the kingdom of ends when,
+1898: although giving universal laws in it, he is also himself subject to
+1899: these laws. He belongs to it as sovereign when, while giving laws,
+1900: he is not subject to the will of any other.
+1901: 
+1902: A rational being must always regard himself as giving laws either as
+1903: member or as sovereign in a kingdom of ends which is rendered possible
+1904: by the freedom of will. He cannot, however, maintain the latter
+1905: position merely by the maxims of his will, but only in case he is a
+1906: completely independent being without wants and with unrestricted power
+1907: adequate to his will.
+1908: 
+1909: Morality consists then in the reference of all action to the
+1910: legislation which alone can render a kingdom of ends possible. This
+1911: legislation must be capable of existing in every rational being and of
+1912: emanating from his will, so that the principle of this will is never
+1913: to act on any maxim which could not without contradiction be also a
+1914: universal law and, accordingly, always so to act that the will could
+1915: at the same time regard itself as giving in its maxims universal laws.
+1916: If now the maxims of rational beings are not by their own nature
+1917: coincident with this objective principle, then the necessity of acting
+1918: on it is called practical necessitation, i.e., duty. Duty does not
+1919: apply to the sovereign in the kingdom of ends, but it does to every
+1920: member of it and to all in the same degree.
+1921: 
+1922: The practical necessity of acting on this principle, i.e., duty,
+1923: does not rest at all on feelings, impulses, or inclinations, but
+1924: solely on the relation of rational beings to one another, a relation
+1925: in which the will of a rational being must always be regarded as
+1926: legislative, since otherwise it could not be conceived as an end in
+1927: itself. Reason then refers every maxim of the will, regarding it as
+1928: legislating universally, to every other will and also to every
+1929: action towards oneself; and this not on account of any other practical
+1930: motive or any future advantage, but from the idea of the dignity of
+1931: a rational being, obeying no law but that which he himself also gives.
+1932: 
+1933: In the kingdom of ends everything has either value or dignity.
+1934: Whatever has a value can be replaced by something else which is
+1935: equivalent; whatever, on the other hand, is above all value, and
+1936: therefore admits of no equivalent, has a dignity.
+1937: 
+1938: Whatever has reference to the general inclinations and wants of
+1939: mankind has a market value; whatever, without presupposing a want,
+1940: corresponds to a certain taste, that is to a satisfaction in the
+1941: mere purposeless play of our faculties, has a fancy value; but that
+1942: which constitutes the condition under which alone anything can be an
+1943: end in itself, this has not merely a relative worth, i.e., value,
+1944: but an intrinsic worth, that is, dignity.
+1945: 
+1946: Now morality is the condition under which alone a rational being can
+1947: be an end in himself, since by this alone is it possible that he
+1948: should be a legislating member in the kingdom of ends. Thus
+1949: morality, and humanity as capable of it, is that which alone has
+1950: dignity. Skill and diligence in labour have a market value; wit,
+1951: lively imagination, and humour, have fancy value; on the other hand,
+1952: fidelity to promises, benevolence from principle (not from
+1953: instinct), have an intrinsic worth. Neither nature nor art contains
+1954: anything which in default of these it could put in their place, for
+1955: their worth consists not in the effects which spring from them, not in
+1956: the use and advantage which they secure, but in the disposition of
+1957: mind, that is, the maxims of the will which are ready to manifest
+1958: themselves in such actions, even though they should not have the
+1959: desired effect. These actions also need no recommendation from any
+1960: subjective taste or sentiment, that they may be looked on with
+1961: immediate favour and satisfaction: they need no immediate propension
+1962: or feeling for them; they exhibit the will that performs them as an
+1963: object of an immediate respect, and nothing but reason is required
+1964: to impose them on the will; not to flatter it into them, which, in the
+1965: case of duties, would be a contradiction. This estimation therefore
+1966: shows that the worth of such a disposition is dignity, and places it
+1967: infinitely above all value, with which it cannot for a moment be
+1968: brought into comparison or competition without as it were violating
+1969: its sanctity.
+1970: 
+1971: What then is it which justifies virtue or the morally good
+1972: disposition, in making such lofty claims? It is nothing less than
+1973: the privilege it secures to the rational being of participating in the
+1974: giving of universal laws, by which it qualifies him to be a member
+1975: of a possible kingdom of ends, a privilege to which he was already
+1976: destined by his own nature as being an end in himself and, on that
+1977: account, legislating in the kingdom of ends; free as regards all
+1978: laws of physical nature, and obeying those only which he himself
+1979: gives, and by which his maxims can belong to a system of universal
+1980: law, to which at the same time he submits himself. For nothing has any
+1981: worth except what the law assigns it. Now the legislation itself which
+1982: assigns the worth of everything must for that very reason possess
+1983: dignity, that is an unconditional incomparable worth; and the word
+1984: respect alone supplies a becoming expression for the esteem which a
+1985: rational being must have for it. Autonomy then is the basis of the
+1986: dignity of human and of every rational nature.
+1987: 
+1988: The three modes of presenting the principle of morality that have
+1989: been adduced are at bottom only so many formulae of the very same law,
+1990: and each of itself involves the other two. There is, however, a
+1991: difference in them, but it is rather subjectively than objectively
+1992: practical, intended namely to bring an idea of the reason nearer to
+1993: intuition (by means of a certain analogy) and thereby nearer to
+1994: feeling. All maxims, in fact, have:
+1995: 
+1996: 1. A form, consisting in universality; and in this view the
+1997: formula of the moral imperative is expressed thus, that the maxims
+1998: must be so chosen as if they were to serve as universal laws of
+1999: nature.
+2000: 
+2001: 2. A matter, namely, an end, and here the formula says that the
+2002: rational being, as it is an end by its own nature and therefore an end
+2003: in itself, must in every maxim serve as the condition limiting all
+2004: merely relative and arbitrary ends.
+2005: 
+2006: 3. A complete characterization of all maxims by means of that
+2007: formula, namely, that all maxims ought by their own legislation to
+2008: harmonize with a possible kingdom of ends as with a kingdom of
+2009: nature. * There is a progress here in the order of the categories of
+2010: unity of the form of the will (its universality), plurality of the
+2011: matter (the objects, i.e., the ends), and totality of the system of
+2012: these. In forming our moral judgement of actions, it is better to
+2013: proceed always on the strict method and start from the general formula
+2014: of the categorical imperative: Act according to a maxim which can at
+2015: the same time make itself a universal law. If, however, we wish to
+2016: gain an entrance for the moral law, it is very useful to bring one and
+2017: the same action under the three specified conceptions, and thereby
+2018: as far as possible to bring it nearer to intuition.
+2019: 
+2020: 
+2021: 
+2022: * Teleology considers nature as a kingdom of ends; ethics regards a
+2023: possible kingdom of ends as a kingdom nature. In the first case, the
+2024: kingdom of ends is a theoretical idea, adopted to explain what
+2025: actually is. In the latter it is a practical idea, adopted to bring
+2026: about that which is not yet, but which can be realized by our conduct,
+2027: namely, if it conforms to this idea.
+2028: 
+2029: 
+2030: 
+2031: We can now end where we started at the beginning, namely, with the
+2032: conception of a will unconditionally good. That will is absolutely
+2033: good which cannot be evil- in other words, whose maxim, if made a
+2034: universal law, could never contradict itself. This principle, then, is
+2035: its supreme law: "Act always on such a maxim as thou canst at the same
+2036: time will to be a universal law"; this is the sole condition under
+2037: which a will can never contradict itself; and such an imperative is
+2038: categorical. Since the validity of the will as a universal law for
+2039: possible actions is analogous to the universal connexion of the
+2040: existence of things by general laws, which is the formal notion of
+2041: nature in general, the categorical imperative can also be expressed
+2042: thus: Act on maxims which can at the same time have for their object
+2043: themselves as universal laws of nature. Such then is the formula of an
+2044: absolutely good will.
+2045: 
+2046: Rational nature is distinguished from the rest of nature by this,
+2047: that it sets before itself an end. This end would be the matter of
+2048: every good will. But since in the idea of a will that is absolutely
+2049: good without being limited by any condition (of attaining this or that
+2050: end) we must abstract wholly from every end to be effected (since this
+2051: would make every will only relatively good), it follows that in this
+2052: case the end must be conceived, not as an end to be effected, but as
+2053: an independently existing end. Consequently it is conceived only
+2054: negatively, i.e., as that which we must never act against and which,
+2055: therefore, must never be regarded merely as means, but must in every
+2056: volition be esteemed as an end likewise. Now this end can be nothing
+2057: but the subject of all possible ends, since this is also the subject
+2058: of a possible absolutely good will; for such a will cannot without
+2059: contradiction be postponed to any other object. The principle: "So act
+2060: in regard to every rational being (thyself and others), that he may
+2061: always have place in thy maxim as an end in himself," is accordingly
+2062: essentially identical with this other: "Act upon a maxim which, at the
+2063: same time, involves its own universal validity for every rational
+2064: being." For that in using means for every end I should limit my
+2065: maxim by the condition of its holding good as a law for every subject,
+2066: this comes to the same thing as that the fundamental principle of
+2067: all maxims of action must be that the subject of all ends, i.e., the
+2068: rational being himself, be never employed merely as means, but as
+2069: the supreme condition restricting the use of all means, that is in
+2070: every case as an end likewise.
+2071: 
+2072: It follows incontestably that, to whatever laws any rational being
+2073: may be subject, he being an end in himself must be able to regard
+2074: himself as also legislating universally in respect of these same laws,
+2075: since it is just this fitness of his maxims for universal
+2076: legislation that distinguishes him as an end in himself; also it
+2077: follows that this implies his dignity (prerogative) above all mere
+2078: physical beings, that he must always take his maxims from the point of
+2079: view which regards himself and, likewise, every other rational being
+2080: as law-giving beings (on which account they are called persons). In
+2081: this way a world of rational beings (mundus intelligibilis) is
+2082: possible as a kingdom of ends, and this by virtue of the legislation
+2083: proper to all persons as members. Therefore every rational being
+2084: must so act as if he were by his maxims in every case a legislating
+2085: member in the universal kingdom of ends. The formal principle of these
+2086: maxims is: "So act as if thy maxim were to serve likewise as the
+2087: universal law (of all rational beings)." A kingdom of ends is thus
+2088: only possible on the analogy of a kingdom of nature, the former
+2089: however only by maxims, that is self-imposed rules, the latter only by
+2090: the laws of efficient causes acting under necessitation from
+2091: without. Nevertheless, although the system of nature is looked upon as
+2092: a machine, yet so far as it has reference to rational beings as its
+2093: ends, it is given on this account the name of a kingdom of nature. Now
+2094: such a kingdom of ends would be actually realized by means of maxims
+2095: conforming to the canon which the categorical imperative prescribes to
+2096: all rational beings, if they were universally followed. But although a
+2097: rational being, even if he punctually follows this maxim himself,
+2098: cannot reckon upon all others being therefore true to the same, nor
+2099: expect that the kingdom of nature and its orderly arrangements shall
+2100: be in harmony with him as a fitting member, so as to form a kingdom of
+2101: ends to which he himself contributes, that is to say, that it shall
+2102: favour his expectation of happiness, still that law: "Act according to
+2103: the maxims of a member of a merely possible kingdom of ends
+2104: legislating in it universally," remains in its full force, inasmuch as
+2105: it commands categorically. And it is just in this that the paradox
+2106: lies; that the mere dignity of man as a rational creature, without any
+2107: other end or advantage to be attained thereby, in other words, respect
+2108: for a mere idea, should yet serve as an inflexible precept of the
+2109: will, and that it is precisely in this independence of the maxim on
+2110: all such springs of action that its sublimity consists; and it is this
+2111: that makes every rational subject worthy to be a legislative member in
+2112: the kingdom of ends: for otherwise he would have to be conceived
+2113: only as subject to the physical law of his wants. And although we
+2114: should suppose the kingdom of nature and the kingdom of ends to be
+2115: united under one sovereign, so that the latter kingdom thereby
+2116: ceased to be a mere idea and acquired true reality, then it would no
+2117: doubt gain the accession of a strong spring, but by no means any
+2118: increase of its intrinsic worth. For this sole absolute lawgiver must,
+2119: notwithstanding this, be always conceived as estimating the worth of
+2120: rational beings only by their disinterested behaviour, as prescribed
+2121: to themselves from that idea [the dignity of man] alone. The essence
+2122: of things is not altered by their external relations, and that
+2123: which, abstracting from these, alone constitutes the absolute worth of
+2124: man, is also that by which he must be judged, whoever the judge may
+2125: be, and even by the Supreme Being. Morality, then, is the relation
+2126: of actions to the relation of actions will, that is, to the autonomy
+2127: of potential universal legislation by its maxims. An action that is
+2128: consistent with the autonomy of the will is permitted; one that does
+2129: not agree therewith is forbidden. A will whose maxims necessarily
+2130: coincide with the laws of autonomy is a holy will, good absolutely.
+2131: The dependence of a will not absolutely good on the principle of
+2132: autonomy (moral necessitation) is obligation. This, then, cannot be
+2133: applied to a holy being. The objective necessity of actions from
+2134: obligation is called duty.
+2135: 
+2136: From what has just been said, it is easy to see how it happens that,
+2137: although the conception of duty implies subjection to the law, we
+2138: yet ascribe a certain dignity and sublimity to the person who
+2139: fulfils all his duties. There is not, indeed, any sublimity in him, so
+2140: far as he is subject to the moral law; but inasmuch as in regard to
+2141: that very law he is likewise a legislator, and on that account alone
+2142: subject to it, he has sublimity. We have also shown above that neither
+2143: fear nor inclination, but simply respect for the law, is the spring
+2144: which can give actions a moral worth. Our own will, so far as we
+2145: suppose it to act only under the condition that its maxims are
+2146: potentially universal laws, this ideal will which is possible to us is
+2147: the proper object of respect; and the dignity of humanity consists
+2148: just in this capacity of being universally legislative, though with
+2149: the condition that it is itself subject to this same legislation.
+2150: 
+2151: 
+2152: 
+2153: The Autonomy of the Will as the Supreme Principle of Morality
+2154: 
+2155: 
+2156: 
+2157: Autonomy of the will is that property of it by which it is a law
+2158: to itself (independently of any property of the objects of
+2159: volition). The principle of autonomy then is: "Always so to choose
+2160: that the same volition shall comprehend the maxims of our choice as
+2161: a universal law." We cannot prove that this practical rule is an
+2162: imperative, i.e., that the will of every rational being is necessarily
+2163: bound to it as a condition, by a mere analysis of the conceptions
+2164: which occur in it, since it is a synthetical proposition; we must
+2165: advance beyond the cognition of the objects to a critical
+2166: examination of the subject, that is, of the pure practical reason, for
+2167: this synthetic proposition which commands apodeictically must be
+2168: capable of being cognized wholly a priori. This matter, however,
+2169: does not belong to the present section. But that the principle of
+2170: autonomy in question is the sole principle of morals can be readily
+2171: shown by mere analysis of the conceptions of morality. For by this
+2172: analysis we find that its principle must be a categorical imperative
+2173: and that what this commands is neither more nor less than this very
+2174: autonomy.
+2175: 
+2176: 
+2177: 
+2178: Heteronomy of the Will as the Source of all spurious Principles
+2179: 
+2180:                         of Morality
+2181: 
+2182: 
+2183: 
+2184: If the will seeks the law which is to determine it anywhere else
+2185: than in the fitness of its maxims to be universal laws of its own
+2186: dictation, consequently if it goes out of itself and seeks this law in
+2187: the character of any of its objects, there always results
+2188: heteronomy. The will in that case does not give itself the law, but it
+2189: is given by the object through its relation to the will. This
+2190: relation, whether it rests on inclination or on conceptions of reason,
+2191: only admits of hypothetical imperatives: "I ought to do something
+2192: because I wish for something else." On the contrary, the moral, and
+2193: therefore categorical, imperative says: "I ought to do so and so, even
+2194: though I should not wish for anything else." E.g., the former says: "I
+2195: ought not to lie, if I would retain my reputation"; the latter says:
+2196: "I ought not to lie, although it should not bring me the least
+2197: discredit." The latter therefore must so far abstract from all objects
+2198: that they shall have no influence on the will, in order that practical
+2199: reason (will) may not be restricted to administering an interest not
+2200: belonging to it, but may simply show its own commanding authority as
+2201: the supreme legislation. Thus, e.g., I ought to endeavour to promote
+2202: the happiness of others, not as if its realization involved any
+2203: concern of mine (whether by immediate inclination or by any
+2204: satisfaction indirectly gained through reason), but simply because a
+2205: maxim which excludes it cannot be comprehended as a universal law in
+2206: one and the same volition.
+2207: 
+2208: 
+2209: 
+2210:   Classification of all Principles of Morality which can be
+2211: 
+2212:          founded on the Conception of Heteronomy
+2213: 
+2214: 
+2215: 
+2216: Here as elsewhere human reason in its pure use, so long as it was
+2217: not critically examined, has first tried all possible wrong ways
+2218: before it succeeded in finding the one true way.
+2219: 
+2220: All principles which can be taken from this point of view are either
+2221: empirical or rational. The former, drawn from the principle of
+2222: happiness, are built on physical or moral feelings; the latter,
+2223: drawn from the principle of perfection, are built either on the
+2224: rational conception of perfection as a possible effect, or on that
+2225: of an independent perfection (the will of God) as the determining
+2226: cause of our will.
+2227: 
+2228: Empirical principles are wholly incapable of serving as a foundation
+2229: for moral laws. For the universality with which these should hold
+2230: for all rational beings without distinction, the unconditional
+2231: practical necessity which is thereby imposed on them, is lost when
+2232: their foundation is taken from the particular constitution of human
+2233: nature, or the accidental circumstances in which it is placed. The
+2234: principle of private happiness, however, is the most objectionable,
+2235: not merely because it is false, and experience contradicts the
+2236: supposition that prosperity is always proportioned to good conduct,
+2237: nor yet merely because it contributes nothing to the establishment
+2238: of morality- since it is quite a different thing to make a
+2239: prosperous man and a good man, or to make one prudent and
+2240: sharp-sighted for his own interests and to make him virtuous- but
+2241: because the springs it provides for morality are such as rather
+2242: undermine it and destroy its sublimity, since they put the motives
+2243: to virtue and to vice in the same class and only teach us to make a
+2244: better calculation, the specific difference between virtue and vice
+2245: being entirely extinguished. On the other hand, as to moral feeling,
+2246: this supposed special sense, * the appeal to it is indeed superficial
+2247: when those who cannot think believe that feeling will help them out,
+2248: even in what concerns general laws: and besides, feelings, which
+2249: naturally differ infinitely in degree, cannot furnish a uniform
+2250: standard of good and evil, nor has anyone a right to form judgements
+2251: for others by his own feelings: nevertheless this moral feeling is
+2252: nearer to morality and its dignity in this respect, that it pays
+2253: virtue the honour of ascribing to her immediately the satisfaction and
+2254: esteem we have for her and does not, as it were, tell her to her
+2255: face that we are not attached to her by her beauty but by profit.
+2256: 
+2257: 
+2258: 
+2259: * I class the principle of moral feeling under that of happiness,
+2260: because every empirical interest promises to contribute to our
+2261: well-being by the agreeableness that a thing affords, whether it be
+2262: immediately and without a view to profit, or whether profit be
+2263: regarded. We must likewise, with Hutcheson, class the principle of
+2264: sympathy with the happiness of others under his assumed moral sense.
+2265: 
+2266: 
+2267: 
+2268: Amongst the rational principles of morality, the ontological
+2269: conception of perfection, notwithstanding its defects, is better
+2270: than the theological conception which derives morality from a Divine
+2271: absolutely perfect will. The former is, no doubt, empty and indefinite
+2272: and consequently useless for finding in the boundless field of
+2273: possible reality the greatest amount suitable for us; moreover, in
+2274: attempting to distinguish specifically the reality of which we are now
+2275: speaking from every other, it inevitably tends to turn in a circle and
+2276: cannot avoid tacitly presupposing the morality which it is to explain;
+2277: it is nevertheless preferable to the theological view, first,
+2278: because we have no intuition of the divine perfection and can only
+2279: deduce it from our own conceptions, the most important of which is
+2280: that of morality, and our explanation would thus be involved in a
+2281: gross circle; and, in the next place, if we avoid this, the only
+2282: notion of the Divine will remaining to us is a conception made up of
+2283: the attributes of desire of glory and dominion, combined with the
+2284: awful conceptions of might and vengeance, and any system of morals
+2285: erected on this foundation would be directly opposed to morality.
+2286: 
+2287: However, if I had to choose between the notion of the moral sense
+2288: and that of perfection in general (two systems which at least do not
+2289: weaken morality, although they are totally incapable of serving as its
+2290: foundation), then I should decide for the latter, because it at
+2291: least withdraws the decision of the question from the sensibility
+2292: and brings it to the court of pure reason; and although even here it
+2293: decides nothing, it at all events preserves the indefinite idea (of
+2294: a will good in itself free from corruption, until it shall be more
+2295: precisely defined.
+2296: 
+2297: For the rest I think I may be excused here from a detailed
+2298: refutation of all these doctrines; that would only be superfluous
+2299: labour, since it is so easy, and is probably so well seen even by
+2300: those whose office requires them to decide for one of these theories
+2301: (because their hearers would not tolerate suspension of judgement).
+2302: But what interests us more here is to know that the prime foundation
+2303: of morality laid down by all these principles is nothing but
+2304: heteronomy of the will, and for this reason they must necessarily miss
+2305: their aim.
+2306: 
+2307: In every case where an object of the will has to be supposed, in
+2308: order that the rule may be prescribed which is to determine the
+2309: will, there the rule is simply heteronomy; the imperative is
+2310: conditional, namely, if or because one wishes for this object, one
+2311: should act so and so: hence it can never command morally, that is,
+2312: categorically. Whether the object determines the will by means of
+2313: inclination, as in the principle of private happiness, or by means
+2314: of reason directed to objects of our possible volition generally, as
+2315: in the principle of perfection, in either case the will never
+2316: determines itself immediately by the conception of the action, but
+2317: only by the influence which the foreseen effect of the action has on
+2318: the will; I ought to do something, on this account, because I wish for
+2319: something else; and here there must be yet another law assumed in me
+2320: as its subject, by which I necessarily will this other thing, and this
+2321: law again requires an imperative to restrict this maxim. For the
+2322: influence which the conception of an object within the reach of our
+2323: faculties can exercise on the will of the subject, in consequence of
+2324: its natural properties, depends on the nature of the subject, either
+2325: the sensibility (inclination and taste), or the understanding and
+2326: reason, the employment of which is by the peculiar constitution of
+2327: their nature attended with satisfaction. It follows that the law would
+2328: be, properly speaking, given by nature, and, as such, it must be known
+2329: and proved by experience and would consequently be contingent and
+2330: therefore incapable of being an apodeictic practical rule, such as the
+2331: moral rule must be. Not only so, but it is inevitably only heteronomy;
+2332: the will does not give itself the law, but is given by a foreign
+2333: impulse by means of a particular natural constitution of the subject
+2334: adapted to receive it. An absolutely good will, then, the principle of
+2335: which must be a categorical imperative, will be indeterminate as
+2336: regards all objects and will contain merely the form of volition
+2337: generally, and that as autonomy, that is to say, the capability of the
+2338: maxims of every good will to make themselves a universal law, is
+2339: itself the only law which the will of every rational being imposes
+2340: on itself, without needing to assume any spring or interest as a
+2341: foundation.
+2342: 
+2343: How such a synthetical practical a priori proposition is possible,
+2344: and why it is necessary, is a problem whose solution does not lie
+2345: within the bounds of the metaphysic of morals; and we have not here
+2346: affirmed its truth, much less professed to have a proof of it in our
+2347: power. We simply showed by the development of the universally received
+2348: notion of morality that an autonomy of the will is inevitably
+2349: connected with it, or rather is its foundation. Whoever then holds
+2350: morality to be anything real, and not a chimerical idea without any
+2351: truth, must likewise admit the principle of it that is here
+2352: assigned. This section then, like the first, was merely analytical.
+2353: Now to prove that morality is no creation of the brain, which it
+2354: cannot be if the categorical imperative and with it the autonomy of
+2355: the will is true, and as an a priori principle absolutely necessary,
+2356: this supposes the possibility of a synthetic use of pure practical
+2357: reason, which however we cannot venture on without first giving a
+2358: critical examination of this faculty of reason. In the concluding
+2359: section we shall give the principal outlines of this critical
+2360: examination as far as is sufficient for our purpose.
+2361: 
+2362: SEC_3
+2363: 
+2364:                      THIRD SECTION
+2365: 
+2366: 
+2367: 
+2368:       TRANSITION FROM THE METAPHYSIC OF MORALS TO THE
+2369: 
+2370:            CRITIQUE OF PURE PRACTICAL REASON
+2371: 
+2372: 
+2373: 
+2374: The Concept of Freedom is the Key that explains the Autonomy of
+2375: the Will
+2376: 
+2377: 
+2378: 
+2379: The will is a kind of causality belonging to living beings in so far
+2380: as they are rational, and freedom would be this property of such
+2381: causality that it can be efficient, independently of foreign causes
+2382: determining it; just as physical necessity is the property that the
+2383: causality of all irrational beings has of being determined to activity
+2384: by the influence of foreign causes.
+2385: 
+2386: The preceding definition of freedom is negative and therefore
+2387: unfruitful for the discovery of its essence, but it leads to a
+2388: positive conception which is so much the more full and fruitful.
+2389: 
+2390: Since the conception of causality involves that of laws, according
+2391: to which, by something that we call cause, something else, namely
+2392: the effect, must be produced; hence, although freedom is not a
+2393: property of the will depending on physical laws, yet it is not for
+2394: that reason lawless; on the contrary it must be a causality acting
+2395: according to immutable laws, but of a peculiar kind; otherwise a
+2396: free will would be an absurdity. Physical necessity is a heteronomy of
+2397: the efficient causes, for every effect is possible only according to
+2398: this law, that something else determines the efficient cause to
+2399: exert its causality. What else then can freedom of the will be but
+2400: autonomy, that is, the property of the will to be a law to itself? But
+2401: the proposition: "The will is in every action a law to itself," only
+2402: expresses the principle: "To act on no other maxim than that which can
+2403: also have as an object itself as a universal law." Now this is
+2404: precisely the formula of the categorical imperative and is the
+2405: principle of morality, so that a free will and a will subject to moral
+2406: laws are one and the same.
+2407: 
+2408: On the hypothesis, then, of freedom of the will, morality together
+2409: with its principle follows from it by mere analysis of the conception.
+2410: However, the latter is a synthetic proposition; viz., an absolutely
+2411: good will is that whose maxim can always include itself regarded as
+2412: a universal law; for this property of its maxim can never be
+2413: discovered by analysing the conception of an absolutely good will. Now
+2414: such synthetic propositions are only possible in this way: that the
+2415: two cognitions are connected together by their union with a third in
+2416: which they are both to be found. The positive concept of freedom
+2417: furnishes this third cognition, which cannot, as with physical causes,
+2418: be the nature of the sensible world (in the concept of which we find
+2419: conjoined the concept of something in relation as cause to something
+2420: else as effect). We cannot now at once show what this third is to
+2421: which freedom points us and of which we have an idea a priori, nor can
+2422: we make intelligible how the concept of freedom is shown to be
+2423: legitimate from principles of pure practical reason and with it the
+2424: possibility of a categorical imperative; but some further
+2425: preparation is required.
+2426: 
+2427: 
+2428: 
+2429:    Freedom must be presupposed as a Property of the Will
+2430: 
+2431:                  of all Rational Beings
+2432: 
+2433: 
+2434: 
+2435: It is not enough to predicate freedom of our own will, from Whatever
+2436: reason, if we have not sufficient grounds for predicating the same
+2437: of all rational beings. For as morality serves as a law for us only
+2438: because we are rational beings, it must also hold for all rational
+2439: beings; and as it must be deduced simply from the property of freedom,
+2440: it must be shown that freedom also is a property of all rational
+2441: beings. It is not enough, then, to prove it from certain supposed
+2442: experiences of human nature (which indeed is quite impossible, and
+2443: it can only be shown a priori), but we must show that it belongs to
+2444: the activity of all rational beings endowed with a will. Now I say
+2445: every being that cannot act except under the idea of freedom is just
+2446: for that reason in a practical point of view really free, that is to
+2447: say, all laws which are inseparably connected with freedom have the
+2448: same force for him as if his will had been shown to be free in
+2449: itself by a proof theoretically conclusive. * Now I affirm that we
+2450: must attribute to every rational being which has a will that it has
+2451: also the idea of freedom and acts entirely under this idea. For in
+2452: such a being we conceive a reason that is practical, that is, has
+2453: causality in reference to its objects. Now we cannot possibly conceive
+2454: a reason consciously receiving a bias from any other quarter with
+2455: respect to its judgements, for then the subject would ascribe the
+2456: determination of its judgement not to its own reason, but to an
+2457: impulse. It must regard itself as the author of its principles
+2458: independent of foreign influences. Consequently as practical reason or
+2459: as the will of a rational being it must regard itself as free, that is
+2460: to say, the will of such a being cannot be a will of its own except
+2461: under the idea of freedom. This idea must therefore in a practical
+2462: point of view be ascribed to every rational being.
+2463: 
+2464: 
+2465: 
+2466: * I adopt this method of assuming freedom merely as an idea which
+2467: rational beings suppose in their actions, in order to avoid the
+2468: necessity of proving it in its theoretical aspect also. The former
+2469: is sufficient for my purpose; for even though the speculative proof
+2470: should not be made out, yet a being that cannot act except with the
+2471: idea of freedom is bound by the same laws that would oblige a being
+2472: who was actually free. Thus we can escape here from the onus which
+2473: presses on the theory.
+2474: 
+2475: 
+2476: 
+2477:     Of the Interest attaching to the Ideas of Morality
+2478: 
+2479: 
+2480: 
+2481: We have finally reduced the definite conception of morality to the
+2482: idea of freedom. This latter, however, we could not prove to be
+2483: actually a property of ourselves or of human nature; only we saw
+2484: that it must be presupposed if we would conceive a being as rational
+2485: and conscious of its causality in respect of its actions, i.e., as
+2486: endowed with a will; and so we find that on just the same grounds we
+2487: must ascribe to every being endowed with reason and will this
+2488: attribute of determining itself to action under the idea of its
+2489: freedom.
+2490: 
+2491: Now it resulted also from the presupposition of these ideas that
+2492: we became aware of a law that the subjective principles of action,
+2493: i.e., maxims, must always be so assumed that they can also hold as
+2494: objective, that is, universal principles, and so serve as universal
+2495: laws of our own dictation. But why then should I subject myself to
+2496: this principle and that simply as a rational being, thus also
+2497: subjecting to it all other being endowed with reason? I will allow
+2498: that no interest urges me to this, for that would not give a
+2499: categorical imperative, but I must take an interest in it and
+2500: discern how this comes to pass; for this properly an "I ought" is
+2501: properly an "I would," valid for every rational being, provided only
+2502: that reason determined his actions without any hindrance. But for
+2503: beings that are in addition affected as we are by springs of a
+2504: different kind, namely, sensibility, and in whose case that is not
+2505: always done which reason alone would do, for these that necessity is
+2506: expressed only as an "ought," and the subjective necessity is
+2507: different from the objective.
+2508: 
+2509: It seems then as if the moral law, that is, the principle of
+2510: autonomy of the will, were properly speaking only presupposed in the
+2511: idea of freedom, and as if we could not prove its reality and
+2512: objective necessity independently. In that case we should still have
+2513: gained something considerable by at least determining the true
+2514: principle more exactly than had previously been done; but as regards
+2515: its validity and the practical necessity of subjecting oneself to
+2516: it, we should not have advanced a step. For if we were asked why the
+2517: universal validity of our maxim as a law must be the condition
+2518: restricting our actions, and on what we ground the worth which we
+2519: assign to this manner of acting- a worth so great that there cannot be
+2520: any higher interest; and if we were asked further how it happens
+2521: that it is by this alone a man believes he feels his own personal
+2522: worth, in comparison with which that of an agreeable or disagreeable
+2523: condition is to be regarded as nothing, to these questions we could
+2524: give no satisfactory answer.
+2525: 
+2526: We find indeed sometimes that we can take an interest in a
+2527: personal quality which does not involve any interest of external
+2528: condition, provided this quality makes us capable of participating
+2529: in the condition in case reason were to effect the allotment; that
+2530: is to say, the mere being worthy of happiness can interest of itself
+2531: even without the motive of participating in this happiness. This
+2532: judgement, however, is in fact only the effect of the importance of
+2533: the moral law which we before presupposed (when by the idea of freedom
+2534: we detach ourselves from every empirical interest); but that we
+2535: ought to detach ourselves from these interests, i.e., to consider
+2536: ourselves as free in action and yet as subject to certain laws, so
+2537: as to find a worth simply in our own person which can compensate us
+2538: for the loss of everything that gives worth to our condition; this
+2539: we are not yet able to discern in this way, nor do we see how it is
+2540: possible so to act- in other words, whence the moral law derives its
+2541: obligation.
+2542: 
+2543: It must be freely admitted that there is a sort of circle here
+2544: from which it seems impossible to escape. In the order of efficient
+2545: causes we assume ourselves free, in order that in the order of ends we
+2546: may conceive ourselves as subject to moral laws: and we afterwards
+2547: conceive ourselves as subject to these laws, because we have
+2548: attributed to ourselves freedom of will: for freedom and
+2549: self-legislation of will are both autonomy and, therefore, are
+2550: reciprocal conceptions, and for this very reason one must not be
+2551: used to explain the other or give the reason of it, but at most only
+2552: logical purposes to reduce apparently different notions of the same
+2553: object to one single concept (as we reduce different fractions of
+2554: the same value to the lowest terms).
+2555: 
+2556: One resource remains to us, namely, to inquire whether we do not
+2557: occupy different points of view when by means of freedom we think
+2558: ourselves as causes efficient a priori, and when we form our
+2559: conception of ourselves from our actions as effects which we see
+2560: before our eyes.
+2561: 
+2562: It is a remark which needs no subtle reflection to make, but which
+2563: we may assume that even the commonest understanding can make, although
+2564: it be after its fashion by an obscure discernment of judgement which
+2565: it calls feeling, that all the "ideas" that come to us involuntarily
+2566: (as those of the senses) do not enable us to know objects otherwise
+2567: than as they affect us; so that what they may be in themselves remains
+2568: unknown to us, and consequently that as regards "ideas" of this kind
+2569: even with the closest attention and clearness that the understanding
+2570: can apply to them, we can by them only attain to the knowledge of
+2571: appearances, never to that of things in themselves. As soon as this
+2572: distinction has once been made (perhaps merely in consequence of the
+2573: difference observed between the ideas given us from without, and in
+2574: which we are passive, and those that we produce simply from ourselves,
+2575: and in which we show our own activity), then it follows of itself that
+2576: we must admit and assume behind the appearance something else that
+2577: is not an appearance, namely, the things in themselves; although we
+2578: must admit that as they can never be known to us except as they affect
+2579: us, we can come no nearer to them, nor can we ever know what they
+2580: are in themselves. This must furnish a distinction, however crude,
+2581: between a world of sense and the world of understanding, of which
+2582: the former may be different according to the difference of the
+2583: sensuous impressions in various observers, while the second which is
+2584: its basis always remains the same, Even as to himself, a man cannot
+2585: pretend to know what he is in himself from the knowledge he has by
+2586: internal sensation. For as he does not as it were create himself,
+2587: and does not come by the conception of himself a priori but
+2588: empirically, it naturally follows that he can obtain his knowledge
+2589: even of himself only by the inner sense and, consequently, only
+2590: through the appearances of his nature and the way in which his
+2591: consciousness is affected. At the same time beyond these
+2592: characteristics of his own subject, made up of mere appearances, he
+2593: must necessarily suppose something else as their basis, namely, his
+2594: ego, whatever its characteristics in itself may be. Thus in respect to
+2595: mere perception and receptivity of sensations he must reckon himself
+2596: as belonging to the world of sense; but in respect of whatever there
+2597: may be of pure activity in him (that which reaches consciousness
+2598: immediately and not through affecting the senses), he must reckon
+2599: himself as belonging to the intellectual world, of which, however,
+2600: he has no further knowledge. To such a conclusion the reflecting man
+2601: must come with respect to all the things which can be presented to
+2602: him: it is probably to be met with even in persons of the commonest
+2603: understanding, who, as is well known, are very much inclined to
+2604: suppose behind the objects of the senses something else invisible
+2605: and acting of itself. They spoil it, however, by presently
+2606: sensualizing this invisible again; that is to say, wanting to make
+2607: it an object of intuition, so that they do not become a whit the
+2608: wiser.
+2609: 
+2610: Now man really finds in himself a faculty by which he
+2611: distinguishes himself from everything else, even from himself as
+2612: affected by objects, and that is reason. This being pure spontaneity
+2613: is even elevated above the understanding. For although the latter is a
+2614: spontaneity and does not, like sense, merely contain intuitions that
+2615: arise when we are affected by things (and are therefore passive),
+2616: yet it cannot produce from its activity any other conceptions than
+2617: those which merely serve to bring the intuitions of sense under
+2618: rules and, thereby, to unite them in one consciousness, and without
+2619: this use of the sensibility it could not think at all; whereas, on the
+2620: contrary, reason shows so pure a spontaneity in the case of what I
+2621: call ideas [ideal conceptions] that it thereby far transcends
+2622: everything that the sensibility can give it, and exhibits its most
+2623: important function in distinguishing the world of sense from that of
+2624: understanding, and thereby prescribing the limits of the understanding
+2625: itself.
+2626: 
+2627: For this reason a rational being must regard himself qua
+2628: intelligence (not from the side of his lower faculties) as belonging
+2629: not to the world of sense, but to that of understanding; hence he
+2630: has two points of view from which he can regard himself, and recognise
+2631: laws of the exercise of his faculties, and consequently of all his
+2632: actions: first, so far as he belongs to the world of sense, he finds
+2633: himself subject to laws of nature (heteronomy); secondly, as belonging
+2634: to the intelligible world, under laws which being independent of
+2635: nature have their foundation not in experience but in reason alone.
+2636: 
+2637: As a rational being, and consequently belonging to the
+2638: intelligible world, man can never conceive the causality of his own
+2639: will otherwise than on condition of the idea of freedom, for
+2640: independence of the determinate causes of the sensible world (an
+2641: independence which reason must always ascribe to itself) is freedom.
+2642: Now the idea of freedom is inseparably connected with the conception
+2643: of autonomy, and this again with the universal principle of morality
+2644: which is ideally the foundation of all actions of rational beings,
+2645: just as the law of nature is of all phenomena.
+2646: 
+2647: Now the suspicion is removed which we raised above, that there was a
+2648: latent circle involved in our reasoning from freedom to autonomy,
+2649: and from this to the moral law, viz.: that we laid down the idea of
+2650: freedom because of the moral law only that we might afterwards in turn
+2651: infer the latter from freedom, and that consequently we could assign
+2652: no reason at all for this law, but could only [present] it as a
+2653: petitio principii which well disposed minds would gladly concede to
+2654: us, but which we could never put forward as a provable proposition.
+2655: For now we see that, when we conceive ourselves as free, we transfer
+2656: ourselves into the world of understanding as members of it and
+2657: recognise the autonomy of the will with its consequence, morality;
+2658: whereas, if we conceive ourselves as under obligation, we consider
+2659: ourselves as belonging to the world of sense and at the same time to
+2660: the world of understanding.
+2661: 
+2662: 
+2663: 
+2664:          How is a Categorical Imperative Possible?
+2665: 
+2666: 
+2667: 
+2668: Every rational being reckons himself qua intelligence as belonging
+2669: to the world of understanding, and it is simply as an efficient
+2670: cause belonging to that world that he calls his causality a will. On
+2671: the other side he is also conscious of himself as a part of the
+2672: world of sense in which his actions, which are mere appearances
+2673: [phenomena] of that causality, are displayed; we cannot, however,
+2674: discern how they are possible from this causality which we do not
+2675: know; but instead of that, these actions as belonging to the
+2676: sensible world must be viewed as determined by other phenomena,
+2677: namely, desires and inclinations. If therefore I were only a member of
+2678: the world of understanding, then all my actions would perfectly
+2679: conform to the principle of autonomy of the pure will; if I were
+2680: only a part of the world of sense, they would necessarily be assumed
+2681: to conform wholly to the natural law of desires and inclinations, in
+2682: other words, to the heteronomy of nature. (The former would rest on
+2683: morality as the supreme principle, the latter on happiness.) Since,
+2684: however, the world of understanding contains the foundation of the
+2685: world of sense, and consequently of its laws also, and accordingly
+2686: gives the law to my will (which belongs wholly to the world of
+2687: understanding) directly, and must be conceived as doing so, it follows
+2688: that, although on the one side I must regard myself as a being
+2689: belonging to the world of sense, yet on the other side I must
+2690: recognize myself as subject as an intelligence to the law of the world
+2691: of understanding, i.e., to reason, which contains this law in the idea
+2692: of freedom, and therefore as subject to the autonomy of the will:
+2693: consequently I must regard the laws of the world of understanding as
+2694: imperatives for me and the actions which conform to them as duties.
+2695: 
+2696: And thus what makes categorical imperatives possible is this, that
+2697: the idea of freedom makes me a member of an intelligible world, in
+2698: consequence of which, if I were nothing else, all my actions would
+2699: always conform to the autonomy of the will; but as I at the same
+2700: time intuite myself as a member of the world of sense, they ought so
+2701: to conform, and this categorical "ought" implies a synthetic a
+2702: priori proposition, inasmuch as besides my will as affected by
+2703: sensible desires there is added further the idea of the same will
+2704: but as belonging to the world of the understanding, pure and practical
+2705: of itself, which contains the supreme condition according to reason of
+2706: the former will; precisely as to the intuitions of sense there are
+2707: added concepts of the understanding which of themselves signify
+2708: nothing but regular form in general and in this way synthetic a priori
+2709: propositions become possible, on which all knowledge of physical
+2710: nature rests.
+2711: 
+2712: The practical use of common human reason confirms this reasoning.
+2713: There is no one, not even the most consummate villain, provided only
+2714: that he is otherwise accustomed to the use of reason, who, when we set
+2715: before him examples of honesty of purpose, of steadfastness in
+2716: following good maxims, of sympathy and general benevolence (even
+2717: combined with great sacrifices of advantages and comfort), does not
+2718: wish that he might also possess these qualities. Only on account of
+2719: his inclinations and impulses he cannot attain this in himself, but at
+2720: the same time he wishes to be free from such inclinations which are
+2721: burdensome to himself. He proves by this that he transfers himself
+2722: in thought with a will free from the impulses of the sensibility
+2723: into an order of things wholly different from that of his desires in
+2724: the field of the sensibility; since he cannot expect to obtain by that
+2725: wish any gratification of his desires, nor any position which would
+2726: satisfy any of his actual or supposable inclinations (for this would
+2727: destroy the pre-eminence of the very idea which wrests that wish
+2728: from him): he can only expect a greater intrinsic worth of his own
+2729: person. This better person, however, he imagines himself to be when be
+2730: transfers himself to the point of view of a member of the world of the
+2731: understanding, to which he is involuntarily forced by the idea of
+2732: freedom, i.e., of independence on determining causes of the world of
+2733: sense; and from this point of view he is conscious of a good will,
+2734: which by his own confession constitutes the law for the bad will
+2735: that he possesses as a member of the world of sense- a law whose
+2736: authority he recognizes while transgressing it. What he morally
+2737: "ought" is then what he necessarily "would," as a member of the
+2738: world of the understanding, and is conceived by him as an "ought" only
+2739: inasmuch as he likewise considers himself as a member of the world
+2740: of sense.
+2741: 
+2742: 
+2743: 
+2744:      Of the Extreme Limits of all Practical Philosophy.
+2745: 
+2746: 
+2747: 
+2748: All men attribute to themselves freedom of will. Hence come all
+2749: judgements upon actions as being such as ought to have been done,
+2750: although they have not been done. However, this freedom is not a
+2751: conception of experience, nor can it be so, since it still remains,
+2752: even though experience shows the contrary of what on supposition of
+2753: freedom are conceived as its necessary consequences. On the other side
+2754: it is equally necessary that everything that takes place should be
+2755: fixedly determined according to laws of nature. This necessity of
+2756: nature is likewise not an empirical conception, just for this
+2757: reason, that it involves the motion of necessity and consequently of a
+2758: priori cognition. But this conception of a system of nature is
+2759: confirmed by experience; and it must even be inevitably presupposed if
+2760: experience itself is to be possible, that is, a connected knowledge of
+2761: the objects of sense resting on general laws. Therefore freedom is
+2762: only an idea of reason, and its objective reality in itself is
+2763: doubtful; while nature is a concept of the understanding which proves,
+2764: and must necessarily prove, its reality in examples of experience.
+2765: 
+2766: There arises from this a dialectic of reason, since the freedom
+2767: attributed to the will appears to contradict the necessity of
+2768: nature, and placed between these two ways reason for speculative
+2769: purposes finds the road of physical necessity much more beaten and
+2770: more appropriate than that of freedom; yet for practical purposes
+2771: the narrow footpath of freedom is the only one on which it is possible
+2772: to make use of reason in our conduct; hence it is just as impossible
+2773: for the subtlest philosophy as for the commonest reason of men to
+2774: argue away freedom. Philosophy must then assume that no real
+2775: contradiction will be found between freedom and physical necessity
+2776: of the same human actions, for it cannot give up the conception of
+2777: nature any more than that of freedom.
+2778: 
+2779: Nevertheless, even though we should never be able to comprehend
+2780: how freedom is possible, we must at least remove this apparent
+2781: contradiction in a convincing manner. For if the thought of freedom
+2782: contradicts either itself or nature, which is equally necessary, it
+2783: must in competition with physical necessity be entirely given up.
+2784: 
+2785: It would, however, be impossible to escape this contradiction if the
+2786: thinking subject, which seems to itself free, conceived itself in
+2787: the same sense or in the very same relation when it calls itself
+2788: free as when in respect of the same action it assumes itself to be
+2789: subject to the law of nature. Hence it is an indispensable problem
+2790: of speculative philosophy to show that its illusion respecting the
+2791: contradiction rests on this, that we think of man in a different sense
+2792: and relation when we call him free and when we regard him as subject
+2793: to the laws of nature as being part and parcel of nature. It must
+2794: therefore show that not only can both these very well co-exist, but
+2795: that both must be thought as necessarily united in the same subject,
+2796: since otherwise no reason could be given why we should burden reason
+2797: with an idea which, though it may possibly without contradiction be
+2798: reconciled with another that is sufficiently established, yet
+2799: entangles us in a perplexity which sorely embarrasses reason in its
+2800: theoretic employment. This duty, however, belongs only to
+2801: speculative philosophy. The philosopher then has no option whether
+2802: he will remove the apparent contradiction or leave it untouched; for
+2803: in the latter case the theory respecting this would be bonum vacans,
+2804: into the possession of which the fatalist would have a right to
+2805: enter and chase all morality out of its supposed domain as occupying
+2806: it without title.
+2807: 
+2808: We cannot however as yet say that we are touching the bounds of
+2809: practical philosophy. For the settlement of that controversy does
+2810: not belong to it; it only demands from speculative reason that it
+2811: should put an end to the discord in which it entangles itself in
+2812: theoretical questions, so that practical reason may have rest and
+2813: security from external attacks which might make the ground debatable
+2814: on which it desires to build.
+2815: 
+2816: The claims to freedom of will made even by common reason are founded
+2817: on the consciousness and the admitted supposition that reason is
+2818: independent of merely subjectively determined causes which together
+2819: constitute what belongs to sensation only and which consequently
+2820: come under the general designation of sensibility. Man considering
+2821: himself in this way as an intelligence places himself thereby in a
+2822: different order of things and in a relation to determining grounds
+2823: of a wholly different kind when on the one hand he thinks of himself
+2824: as an intelligence endowed with a will, and consequently with
+2825: causality, and when on the other he perceives himself as a
+2826: phenomenon in the world of sense (as he really is also), and affirms
+2827: that his causality is subject to external determination according to
+2828: laws of nature. Now he soon becomes aware that both can hold good,
+2829: nay, must hold good at the same time. For there is not the smallest
+2830: contradiction in saying that a thing in appearance (belonging to the
+2831: world of sense) is subject to certain laws, of which the very same
+2832: as a thing or being in itself is independent, and that he must
+2833: conceive and think of himself in this twofold way, rests as to the
+2834: first on the consciousness of himself as an object affected through
+2835: the senses, and as to the second on the consciousness of himself as an
+2836: intelligence, i.e., as independent on sensible impressions in the
+2837: employment of his reason (in other words as belonging to the world
+2838: of understanding).
+2839: 
+2840: Hence it comes to pass that man claims the possession of a will
+2841: which takes no account of anything that comes under the head of
+2842: desires and inclinations and, on the contrary, conceives actions as
+2843: possible to him, nay, even as necessary which can only be done by
+2844: disregarding all desires and sensible inclinations. The causality of
+2845: such actions lies in him as an intelligence and in the laws of effects
+2846: and actions [which depend] on the principles of an intelligible world,
+2847: of which indeed he knows nothing more than that in it pure reason
+2848: alone independent of sensibility gives the law; moreover since it is
+2849: only in that world, as an intelligence, that he is his proper self
+2850: (being as man only the appearance of himself), those laws apply to him
+2851: directly and categorically, so that the incitements of inclinations
+2852: and appetites (in other words the whole nature of the world of
+2853: sense) cannot impair the laws of his volition as an intelligence. Nay,
+2854: he does not even hold himself responsible for the former or ascribe
+2855: them to his proper self, i.e., his will: he only ascribes to his
+2856: will any indulgence which he might yield them if he allowed them to
+2857: influence his maxims to the prejudice of the rational laws of the
+2858: will.
+2859: 
+2860: When practical reason thinks itself into a world of understanding,
+2861: it does not thereby transcend its own limits, as it would if it
+2862: tried to enter it by intuition or sensation. The former is only a
+2863: negative thought in respect of the world of sense, which does not give
+2864: any laws to reason in determining the will and is positive only in
+2865: this single point that this freedom as a negative characteristic is at
+2866: the same time conjoined with a (positive) faculty and even with a
+2867: causality of reason, which we designate a will, namely a faculty of so
+2868: acting that the principle of the actions shall conform to the
+2869: essential character of a rational motive, i.e., the condition that the
+2870: maxim have universal validity as a law. But were it to borrow an
+2871: object of will, that is, a motive, from the world of understanding,
+2872: then it would overstep its bounds and pretend to be acquainted with
+2873: something of which it knows nothing. The conception of a world of
+2874: the understanding is then only a point of view which reason finds
+2875: itself compelled to take outside the appearances in order to
+2876: conceive itself as practical, which would not be possible if the
+2877: influences of the sensibility had a determining power on man, but
+2878: which is necessary unless he is to be denied the consciousness of
+2879: himself as an intelligence and, consequently, as a rational cause,
+2880: energizing by reason, that is, operating freely. This thought
+2881: certainly involves the idea of an order and a system of laws different
+2882: from that of the mechanism of nature which belongs to the sensible
+2883: world; and it makes the conception of an intelligible world
+2884: necessary (that is to say, the whole system of rational beings as
+2885: things in themselves). But it does not in the least authorize us to
+2886: think of it further than as to its formal condition only, that is, the
+2887: universality of the maxims of the will as laws, and consequently the
+2888: autonomy of the latter, which alone is consistent with its freedom;
+2889: whereas, on the contrary, all laws that refer to a definite object
+2890: give heteronomy, which only belongs to laws of nature and can only
+2891: apply to the sensible world.
+2892: 
+2893: But reason would overstep all its bounds if it undertook to
+2894: explain how pure reason can be practical, which would be exactly the
+2895: same problem as to explain how freedom is possible.
+2896: 
+2897: For we can explain nothing but that which we can reduce to laws, the
+2898: object of which can be given in some possible experience. But
+2899: freedom is a mere idea, the objective reality of which can in no
+2900: wise be shown according to laws of nature, and consequently not in any
+2901: possible experience; and for this reason it can never be
+2902: comprehended or understood, because we cannot support it by any sort
+2903: of example or analogy. It holds good only as a necessary hypothesis of
+2904: reason in a being that believes itself conscious of a will, that is,
+2905: of a faculty distinct from mere desire (namely, a faculty of
+2906: determining itself to action as an intelligence, in other words, by
+2907: laws of reason independently on natural instincts). Now where
+2908: determination according to laws of nature ceases, there all
+2909: explanation ceases also, and nothing remains but defence, i.e., the
+2910: removal of the objections of those who pretend to have seen deeper
+2911: into the nature of things, and thereupon boldly declare freedom
+2912: impossible. We can only point out to them that the supposed
+2913: contradiction that they have discovered in it arises only from this,
+2914: that in order to be able to apply the law of nature to human
+2915: actions, they must necessarily consider man as an appearance: then
+2916: when we demand of them that they should also think of him qua
+2917: intelligence as a thing in itself, they still persist in considering
+2918: him in this respect also as an appearance. In this view it would no
+2919: doubt be a contradiction to suppose the causality of the same
+2920: subject (that is, his will) to be withdrawn from all the natural
+2921: laws of the sensible world. But this contradiction disappears, if they
+2922: would only bethink themselves and admit, as is reasonable, that behind
+2923: the appearances there must also lie at their root (although hidden)
+2924: the things in themselves, and that we cannot expect the laws of
+2925: these to be the same as those that govern their appearances.
+2926: 
+2927: The subjective impossibility of explaining the freedom of the will
+2928: is identical with the impossibility of discovering and explaining an
+2929: interest * which man can take in the moral law. Nevertheless he does
+2930: actually take an interest in it, the basis of which in us we call
+2931: the moral feeling, which some have falsely assigned as the standard of
+2932: our moral judgement, whereas it must rather be viewed as the
+2933: subjective effect that the law exercises on the will, the objective
+2934: principle of which is furnished by reason alone.
+2935: 
+2936: 
+2937: 
+2938: * Interest is that by which reason becomes practical, i.e., a cause
+2939: determining the will. Hence we say of rational beings only that they
+2940: take an interest in a thing; irrational beings only feel sensual
+2941: appetites. Reason takes a direct interest in action then only when the
+2942: universal validity of its maxims is alone sufficient to determine
+2943: the will. Such an interest alone is pure. But if it can determine
+2944: the will only by means of another object of desire or on the
+2945: suggestion of a particular feeling of the subject, then reason takes
+2946: only an indirect interest in the action, and, as reason by itself
+2947: without experience cannot discover either objects of the will or a
+2948: special feeling actuating it, this latter interest would only be
+2949: empirical and not a pure rational interest. The logical interest of
+2950: reason (namely, to extend its insight) is never direct, but
+2951: presupposes purposes for which reason is employed.
+2952: 
+2953: 
+2954: 
+2955: In order indeed that a rational being who is also affected through
+2956: the senses should will what reason alone directs such beings that they
+2957: ought to will, it is no doubt requisite that reason should have a
+2958: power to infuse a feeling of pleasure or satisfaction in the
+2959: fulfilment of duty, that is to say, that it should have a causality by
+2960: which it determines the sensibility according to its own principles.
+2961: But it is quite impossible to discern, i.e., to make it intelligible a
+2962: priori, how a mere thought, which itself contains nothing sensible,
+2963: can itself produce a sensation of pleasure or pain; for this is a
+2964: particular kind of causality of which as of every other causality we
+2965: can determine nothing whatever a priori; we must only consult
+2966: experience about it. But as this cannot supply us with any relation of
+2967: cause and effect except between two objects of experience, whereas
+2968: in this case, although indeed the effect produced lies within
+2969: experience, yet the cause is supposed to be pure reason acting through
+2970: mere ideas which offer no object to experience, it follows that for us
+2971: men it is quite impossible to explain how and why the universality
+2972: of the maxim as a law, that is, morality, interests. This only is
+2973: certain, that it is not because it interests us that it has validity
+2974: for us (for that would be heteronomy and dependence of practical
+2975: reason on sensibility, namely, on a feeling as its principle, in which
+2976: case it could never give moral laws), but that it interests us because
+2977: it is valid for us as men, inasmuch as it had its source in our will
+2978: as intelligences, in other words, in our proper self, and what belongs
+2979: to mere appearance is necessarily subordinated by reason to the nature
+2980: of the thing in itself.
+2981: 
+2982: The question then, "How a categorical imperative is possible," can
+2983: be answered to this extent, that we can assign the only hypothesis
+2984: on which it is possible, namely, the idea of freedom; and we can
+2985: also discern the necessity of this hypothesis, and this is
+2986: sufficient for the practical exercise of reason, that is, for the
+2987: conviction of the validity of this imperative, and hence of the
+2988: moral law; but how this hypothesis itself is possible can never be
+2989: discerned by any human reason. On the hypothesis, however, that the
+2990: will of an intelligence is free, its autonomy, as the essential formal
+2991: condition of its determination, is a necessary consequence.
+2992: Moreover, this freedom of will is not merely quite possible as a
+2993: hypothesis (not involving any contradiction to the principle of
+2994: physical necessity in the connexion of the phenomena of the sensible
+2995: world) as speculative philosophy can show: but further, a rational
+2996: being who is conscious of causality through reason, that is to say, of
+2997: a will (distinct from desires), must of necessity make it practically,
+2998: that is, in idea, the condition of all his voluntary actions. But to
+2999: explain how pure reason can be of itself practical without the aid
+3000: of any spring of action that could be derived from any other source,
+3001: i.e., how the mere principle of the universal validity of all its
+3002: maxims as laws (which would certainly be the form of a pure
+3003: practical reason) can of itself supply a spring, without any matter
+3004: (object) of the will in which one could antecedently take any
+3005: interest; and how it can produce an interest which would be called
+3006: purely moral; or in other words, how pure reason can be practical-
+3007: to explain this is beyond the power of human reason, and all the
+3008: labour and pains of seeking an explanation of it are lost.
+3009: 
+3010: It is just the same as if I sought to find out how freedom itself is
+3011: possible as the causality of a will. For then I quit the ground of
+3012: philosophical explanation, and I have no other to go upon. I might
+3013: indeed revel in the world of intelligences which still remains to
+3014: me, but although I have an idea of it which is well founded, yet I
+3015: have not the least knowledge of it, nor an I ever attain to such
+3016: knowledge with all the efforts of my natural faculty of reason. It
+3017: signifies only a something that remains over when I have eliminated
+3018: everything belonging to the world of sense from the actuating
+3019: principles of my will, serving merely to keep in bounds the
+3020: principle of motives taken from the field of sensibility; fixing its
+3021: limits and showing that it does not contain all in all within
+3022: itself, but that there is more beyond it; but this something more I
+3023: know no further. Of pure reason which frames this ideal, there remains
+3024: after the abstraction of all matter, i.e., knowledge of objects,
+3025: nothing but the form, namely, the practical law of the universality of
+3026: the maxims, and in conformity with this conception of reason in
+3027: reference to a pure world of understanding as a possible efficient
+3028: cause, that is a cause determining the will. There must here be a
+3029: total absence of springs; unless this idea of an intelligible world is
+3030: itself the spring, or that in which reason primarily takes an
+3031: interest; but to make this intelligible is precisely the problem
+3032: that we cannot solve.
+3033: 
+3034: Here now is the extreme limit of all moral inquiry, and it is of
+3035: great importance to determine it even on this account, in order that
+3036: reason may not on the one hand, to the prejudice of morals, seek about
+3037: in the world of sense for the supreme motive and an interest
+3038: comprehensible but empirical; and on the other hand, that it may not
+3039: impotently flap its wings without being able to move in the (for it)
+3040: empty space of transcendent concepts which we call the intelligible
+3041: world, and so lose itself amidst chimeras. For the rest, the idea of a
+3042: pure world of understanding as a system of all intelligences, and to
+3043: which we ourselves as rational beings belong (although we are likewise
+3044: on the other side members of the sensible world), this remains
+3045: always a useful and legitimate idea for the purposes of rational
+3046: belief, although all knowledge stops at its threshold, useful, namely,
+3047: to produce in us a lively interest in the moral law by means of the
+3048: noble ideal of a universal kingdom of ends in themselves (rational
+3049: beings), to which we can belong as members then only when we carefully
+3050: conduct ourselves according to the maxims of freedom as if they were
+3051: laws of nature.
+3052: 
+3053: 
+3054: 
+3055:                    Concluding Remark
+3056: 
+3057: 
+3058: 
+3059: The speculative employment of reason with respect to nature leads to
+3060: the absolute necessity of some supreme cause of the world: the
+3061: practical employment of reason with a view to freedom leads also to
+3062: absolute necessity, but only of the laws of the actions of a
+3063: rational being as such. Now it is an essential principle of reason,
+3064: however employed, to push its knowledge to a consciousness of its
+3065: necessity (without which it would not be rational knowledge). It is,
+3066: however, an equally essential restriction of the same reason that it
+3067: can neither discern the necessity of what is or what happens, nor of
+3068: what ought to happen, unless a condition is supposed on which it is or
+3069: happens or ought to happen. In this way, however, by the constant
+3070: inquiry for the condition, the satisfaction of reason is only
+3071: further and further postponed. Hence it unceasingly seeks the
+3072: unconditionally necessary and finds itself forced to assume it,
+3073: although without any means of making it comprehensible to itself,
+3074: happy enough if only it can discover a conception which agrees with
+3075: this assumption. It is therefore no fault in our deduction of the
+3076: supreme principle of morality, but an objection that should be made to
+3077: human reason in general, that it cannot enable us to conceive the
+3078: absolute necessity of an unconditional practical law (such as the
+3079: categorical imperative must be). It cannot be blamed for refusing to
+3080: explain this necessity by a condition, that is to say, by means of
+3081: some interest assumed as a basis, since the law would then cease to be
+3082: a supreme law of reason. And thus while we do not comprehend the
+3083: practical unconditional necessity of the moral imperative, we yet
+3084: comprehend its incomprehensibility, and this is all that can be fairly
+3085: demanded of a philosophy which strives to carry its principles up to
+3086: the very limit of human reason.
+3087: 
+3088: 
+3089:                              THE END
+3090: 
+3091: 
+3092: 
+3093: 
+3094: 
+3095: 
+3096: 
