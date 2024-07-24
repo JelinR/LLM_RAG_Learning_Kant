@@ -8,3 +8,5 @@ The texts used for the analysis are (obtained from the Project Gutenberg data re
     Book_2: The Critique of Practical Reason
     Book_3: The Critique of Pure Reason
     Book_4: Fundamental Principles of the Metaphysic of Morals
+
+For more information, visit my Portfolio: https://jelinr.github.io/
